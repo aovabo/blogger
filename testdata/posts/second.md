@@ -20,9 +20,7 @@ Using Prifender, enterprises can prove their regulatory compliance, avoid fines 
 Prifender provides users with a practical way to view, control, report and query data to meet privacy obligations, key performance indicators, and review the activities that take place over millions of identities.
 
 
-
-Interested in joining our
-design partner program?
+Interested in joining our design partner program?
 
  provide
 technological solutions for organizations
@@ -31,12 +29,11 @@ accountability, compliance, and riskassessment and -mitigation
 
 
 Data Protection Laws in Africa
+
 I want to write about the evolution of data security and privacy laws across Africa and its current state. To start with, here are some basic facts about Africa:
 
-There are 55 countries recognized by the African Union on the African Continent. 
-These African countries are divided into five geographic regions.
-  
-  
+There are 55 countries recognized by the African Union on the African Continent. These African countries are divided into five geographic regions as show in the table below:
+   
 | Region | Countries |
 |---|---|
 | Central Africa | Burundi, Cameroon, Central African Republic, Chad, Republic of the Congo, DR Congo, Equatorial Guinea, Gabon, São Tomé and Príncipe |
@@ -45,6 +42,41 @@ These African countries are divided into five geographic regions.
 | Southern Africa | Angola, Botswana, Eswatini, Lesotho, Malawi, Mozambique, Namibia,  South Africa, Zambia, Zimbabwe |
 | Western Africa | Benin, Burkina Faso, Cape Verde, Côte d’Ivoire, Gambia, Ghana, Guinea, Guinea-Bissau, Liberia, Mali, Niger, Nigeria, Senegal, Sierra Leone, Togo |  
   
+The are eight regional economic communities recognized by the African Union:
+
+| Regional Economic Community | Member States |
+| --- | --- |
+| Arab Maghreb Union (AMU) | Algeria, Libya, Mauritania, Morocco, Tunisia |
+| Common Market for Eastern and Southern Africa (COMESA) | Burundi, Comoros, Democratic Republic of the Congo, Djibouti, Egypt, Eritrea, Eswatini, Ethiopia, Kenya, Libya, Madagascar, Malawi, Mauritius, Rwanda, Seychelles, Sudan, Uganda, Zambia, Zimbabwe |
+| Community of Sahel-Saharan States (CEN-SAD) | Benin, Burkina Faso, Central African Republic, Chad, Comoros, Djibouti, Egypt, Eritrea, Gambia, Ghana, Guinea-Bissau, Ivory Coast, Libya, Mali, Mauritania, Morocco, Niger, Nigeria, Senegal, Sierra Leone, Somalia, Sudan, Togo, Tunisia |
+| East African Community (EAC) | Burundi, Kenya, Rwanda, South Sudan, Tanzania, Uganda |
+| Economic Community of Central African States (ECCAS) | Angola, Burundi, Cameroon, Central African Republic, Chad, Congo, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Rwanda, São Tomé and Príncipe |
+| Economic Community of West African States (ECOWAS) | Benin, Burkina Faso, Cape Verde, Gambia, Ghana, Guinea, Guinea-Bissau, Ivory Coast, Liberia, Mali, Niger, Nigeria, Senegal, Sierra Leone, Togo |
+| Intergovernmental Authority on Development (IGAD) | Djibouti, Eritrea, Ethiopia, Kenya, Somalia, South Sudan, Sudan, Uganda |
+| Southern African Development Community (SADC) | Angola, Botswana, Comoros, Democratic Republic of the Congo, Eswatini, Lesotho, Madagascar, Malawi, Mauritius, Mozambique, Namibia, Seychelles, South Africa, Tanzania, Zambia, Zimbabwe |
+
+
+
+
+
+
+
+
+• Arab Maghreb Union (UMA)
+
+• Common Market for Eastern and Southern Africa (COMESA)
+
+• Community of Sahel–Saharan States (CEN–SAD)
+
+• East African Community (EAC)
+
+• Economic Community of Central African States (ECCAS)
+
+• Economic Community of West African States (ECOWAS)
+
+• Intergovernmental Authority on Development (IGAD)
+
+• Southern African Development Community (SADC).
   
   
   
