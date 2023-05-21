@@ -14,7 +14,7 @@ const BLOG_SETTINGS = await configureBlog(BLOG_URL, false, {
   author: "The author",
   title: "Test blog",
   description: "This is some description.",
-  lang: "en-GB",
+  lang: "en-US",
   middlewares: [
     redirects({
       "/to_second": "second",
