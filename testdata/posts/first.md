@@ -1,7 +1,7 @@
 ---
-title: Project Privacy: A Tool for Data Security and Compliance
+title: Project Privacy
 publish_date: 2022-03-20
-abstract: Privacy is a fundamental human right that is essential for data security and compliance. 
+abstract: A Tool for Data Security and Compliance
 cover_html: <svg class="w-full" height="350" width="100%" background="black"><circle cx="50%" cy="170" r="150" stroke="white" stroke-width="10" fill="black" alpha="50%"/></svg>
 ---
 
