@@ -56,42 +56,23 @@ The are eight regional economic communities recognized by the African Union:
 | Southern African Development Community (SADC) | Angola, Botswana, Comoros, Democratic Republic of the Congo, Eswatini, Lesotho, Madagascar, Malawi, Mauritius, Mozambique, Namibia, Seychelles, South Africa, Tanzania, Zambia, Zimbabwe |
 
 
+Privacy Laws by African Bodies
+
+The African Union Convention on Cyber Security and Personal Data Protection (the 'Malabo Convention').
+
+Economic Community of West African States ('ECOWAS') Supplementary Act A/SA. 1/01/10 on Personal Data Protection within ECOWAS ('the Act').
+
+The Landscape of Data Protection Laws in Africa
 
 
 
+The proliferation of regulatory changes around the world—particularly the 2016 General Data Protection Regulation (GDPR) of the European Union (EU)—has likely spurred increased interest in the regulation and governance of personal data throughout Africa. 
 
 
-
-• Arab Maghreb Union (UMA)
-
-• Common Market for Eastern and Southern Africa (COMESA)
-
-• Community of Sahel–Saharan States (CEN–SAD)
-
-• East African Community (EAC)
-
-• Economic Community of Central African States (ECCAS)
-
-• Economic Community of West African States (ECOWAS)
-
-• Intergovernmental Authority on Development (IGAD)
-
-• Southern African Development Community (SADC).
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-
-
-
-Central Africa
+Many countries across Africa have adopted rules governing a generalized right to privacy (often in their constitutions), but the adoption of laws governing the protection of personal data in the region has gone more slowly. Before 2016 (the year GDPR was enacted), only 16 of
+55 nations had adopted specific data protection laws.
+27 However, as of August 2020, that number
+had quickly risen to 31 countries (figure 1).
 
 
 
