@@ -39,11 +39,11 @@ These African countries are divided into five geographic regions.
   
 | Region | Countries |
 |---|---|
-| Central Africa | Angola, Burundi, Cameroon, Central African Republic, Chad, Republic of the Congo, Democratic Republic of the Congo, Equatorial Guinea, Gabon, São Tomé and Príncipe |
-| Eastern Africa | Djibouti, Eritrea, Ethiopia, Kenya, Madagascar, Malawi, Mauritius, Mozambique, Namibia, Rwanda, Seychelles, Somalia, South Sudan, Sudan, Tanzania, Uganda, Zambia, Zimbabwe |
-| Northern Africa | Algeria, Egypt, Libya, Morocco, Mauritania, Tunisia |
-| Southern Africa | Botswana, Lesotho, Namibia, South Africa, Swaziland, Zambia, Zimbabwe |
-| Western Africa | Benin, Burkina Faso, Cape Verde, Gambia, Ghana, Guinea, Guinea-Bissau, Ivory Coast, Liberia, Mali, Mauritania, Niger, Nigeria, Senegal, Sierra Leone, Togo |  
+| Central Africa | Burundi, Cameroon, Central African Republic, Chad, Republic of the Congo, Democratic Republic of the Congo, Equatorial Guinea, Gabon, São Tomé and Príncipe |
+| Eastern Africa | Comoros, Djibouti, Eritrea, Ethiopia, Kenya, Madagascar, Mauritius, Rwanda, Seychelles, Somalia, South Sudan, Sudan, Tanzania, Uganda |
+| Northern Africa | Algeria, Egypt, Libya, Mauritania, Morocco, Sahrawi Republic, Tunisia |
+| Southern Africa | Angola, Botswana, Eswatini, Lesotho, Malawi, Mozambique, Namibia,  South Africa, Zambia, Zimbabwe |
+| Western Africa | Benin, Burkina Faso, Cape Verde, Côte d’Ivoire, Gambia, Ghana, Guinea, Guinea-Bissau, Liberia, Mali, Niger, Nigeria, Senegal, Sierra Leone, Togo |  
   
   
   
