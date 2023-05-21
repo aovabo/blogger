@@ -48,7 +48,7 @@ The are eight regional economic communities recognized by the African Union:
 | --- | --- |
 | Arab Maghreb Union (AMU) | Algeria, Libya, Mauritania, Morocco, Tunisia |
 | Common Market for Eastern and Southern Africa (COMESA) | Burundi, Comoros, Democratic Republic of the Congo, Djibouti, Egypt, Eritrea, Eswatini, Ethiopia, Kenya, Libya, Madagascar, Malawi, Mauritius, Rwanda, Seychelles, Somalia, Sudan, Uganda, Zambia, Zimbabwe |
-| Community of Sahel-Saharan States (CEN-SAD) | Benin, Burkina Faso, Central African Republic, Chad, Comoros, Djibouti, Egypt, Eritrea, Gambia, Ghana, Guinea-Bissau, Ivory Coast, Libya, Mali, Mauritania, Morocco, Niger, Nigeria, Senegal, Sierra Leone, Somalia, Sudan, Togo, Tunisia |
+| Community of Sahel-Saharan States (CEN-SAD) | Benin, Burkina Faso, Cabo Verde, Central African Republic, Chad, Comoros, Côte d’Ivoire, Djibouti, Egypt, Eritrea, Gambia, Ghana, Guinea, Guinea-Bissau, Kenya, Liberia, Libya, Mali, Mauritania, Morocco, Niger, Nigeria, São Tomé and Príncipe, Senegal, Sierra Leone, Somalia, Sudan, Togo, Tunisia |
 | East African Community (EAC) | Burundi, Kenya, Rwanda, South Sudan, Tanzania, Uganda |
 | Economic Community of Central African States (ECCAS) | Angola, Burundi, Cameroon, Central African Republic, Chad, Congo, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Rwanda, São Tomé and Príncipe |
 | Economic Community of West African States (ECOWAS) | Benin, Burkina Faso, Cape Verde, Gambia, Ghana, Guinea, Guinea-Bissau, Ivory Coast, Liberia, Mali, Niger, Nigeria, Senegal, Sierra Leone, Togo |
