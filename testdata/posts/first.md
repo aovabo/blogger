@@ -4,6 +4,52 @@ publish_date: 2023-05-23
 abstract: This paper presents a comprehensive analysis of data privacy laws across Africa, examining the impact of the EU's GDPR and exploring the benefits and challenges of unified data privacy laws. It also proposes a tool for automating data privacy compliance, offering a practical solution for businesses, developers, and data protection officers in Africa.
 ---
 
+## Introduction
+
+There are 55 countries recognized by the African Union on the African Continent. These African countries are divided into five geographic regions and eight regional economic communities show in the table below:
+  
+**Geographic regions** 
+
+| Region | Countries |
+|---|---|
+| Central Africa | Burundi, Cameroon, Central African Republic, Chad, Republic of the Congo, DR Congo, Equatorial Guinea, Gabon, São Tomé and Príncipe |
+| Eastern Africa | Comoros, Djibouti, Eritrea, Ethiopia, Kenya, Madagascar, Mauritius, Rwanda, Seychelles, Somalia, South Sudan, Sudan, Tanzania, Uganda |
+| Northern Africa | Algeria, Egypt, Libya, Mauritania, Morocco, Sahrawi Republic, Tunisia |
+| Southern Africa | Angola, Botswana, Eswatini, Lesotho, Malawi, Mozambique, Namibia,  South Africa, Zambia, Zimbabwe |
+| Western Africa | Benin, Burkina Faso, Cape Verde, Côte d’Ivoire, Gambia, Ghana, Guinea, Guinea-Bissau, Liberia, Mali, Niger, Nigeria, Senegal, Sierra Leone, Togo |  
+  
+**Economic communities**
+
+| Regional Economic Community | Countries |
+| --- | --- |
+| Arab Maghreb Union (AMU) | Algeria, Libya, Mauritania, Morocco, Tunisia |
+| Common Market for Eastern and Southern Africa (COMESA) | Burundi, Comoros, Democratic Republic of the Congo, Djibouti, Egypt, Eritrea, Eswatini, Ethiopia, Kenya, Libya, Madagascar, Malawi, Mauritius, Rwanda, Seychelles, Somalia, Sudan, Uganda, Zambia, Zimbabwe |
+| Community of Sahel-Saharan States (CEN-SAD) | Benin, Burkina Faso, Cabo Verde, Central African Republic, Chad, Comoros, Côte d’Ivoire, Djibouti, Egypt, Eritrea, Gambia, Ghana, Guinea, Guinea-Bissau, Kenya, Liberia, Libya, Mali, Mauritania, Morocco, Niger, Nigeria, São Tomé and Príncipe, Senegal, Sierra Leone, Somalia, Sudan, Togo, Tunisia |
+| East African Community (EAC) | Burundi, Kenya, Rwanda, South Sudan, Tanzania, Uganda |
+| Economic Community of Central African States (ECCAS) | Angola, Burundi, Cameroon, Central African Republic, Chad, Congo, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Rwanda, São Tomé and Príncipe |
+| Economic Community of West African States (ECOWAS) | Benin, Burkina Faso, Cape Verde, Côte d’Ivoire, Gambia, Ghana, Guinea, Guinea-Bissau, Liberia, Mali, Niger, Nigeria, Senegal, Sierra Leone, Togo |
+| Intergovernmental Authority on Development (IGAD) | Djibouti, Eritrea, Ethiopia, Kenya, Somalia, South Sudan, Sudan, Uganda |
+| Southern African Development Community (SADC) | Angola, Botswana, Comoros, Democratic Republic of the Congo, Eswatini, Lesotho, Madagascar, Malawi, Mauritius, Mozambique, Namibia, Seychelles, South Africa, Tanzania, Zambia, Zimbabwe |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Pie Charts
 ```mermaid
 pie
