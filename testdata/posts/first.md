@@ -45,9 +45,9 @@ The Need for Harmonization
 | Chad | Central Africa | Articles 17 and 49 | Yes | 2015 |  Law No. 007/PR/2015 and Law No. 006/PR/2015 | Signed | Yes |
 | Comoros | Eastern Africa | Article 27 | No | - | - | Signed | - |
 | Côte d'Ivoire | Western Africa | Article 8 | Yes | June 19, 2013 | Law No. 2013-450 | Ratified | Yes | 
-| Congo (Republic) | Central Africa | Article 26 | Yes | 2011 | Law No. 11-009 on the Protection of Personal Data | Ratified (23 October 2020)  |
-| Congo (Democratic Republic) | Central Africa | Article 31 | Yes | 2010 | Law No. 09/001 on the Protection of Personal Data | Ratified |
-| Djibouti | Eastern Africa | Article 13 | No | - | - | Signed | | 
+| Congo | Central Africa | Article 26 | Yes | 2019 |  Law No. 29-2019  | Ratified (23 October 2020)  |  No| 
+| Djibouti | Eastern Africa | Article 13 | No | - | - | Signed | No | 
+| Democratic Republic of Congo | Central Africa | Article 31 | No | - | - | - |
 | Egypt | Northern Africa | Constitution protects privacy | Yes | 2020 | Law No. 151/2020 on the Protection of Personal Data | Signed |
 | Equatorial Guinea | Central Africa | Article 13 | No | - | - | - |
 | Eritrea | Eastern Africa | Article 18 | No | - | - | - |
