@@ -40,7 +40,7 @@ The Need for Harmonization
 | Burkina Faso | Western Africa | 1991 Constitution | Yes | 2004 | Law N°010- 2004/AN and Law No. 001-2021 | No | Yes |
 | Burundi | Eastern Africa | Articles 28 and 42 | No | - | - | - | - |
 | Cameroon | Central Africa | Preamble | No | -| - | Signed | Yes |
-| Cape Verde | Western Africa | Constitutional right of habeas data | Yes | 2001 | Law No. 133-V-2001 and Law No. 41 and 42 2013  | Ratified (5 February 2022) | Yes |
+| Cape Verde | Western Africa | Constitutional right of habeas data | Yes | January 22, 2001| Law No. 133-V-2001 and Law No. 41 and 42 2013  | Ratified (5 February 2022) | Yes |
 | Central African Republic (CAR) | Central Africa | Article 16 | No | - | - | No | No |
 | Chad | Central Africa | Articles 17 and 49 | Yes | 2015 |  Law No. 007/PR/2015 and Law No. 006/PR/2015 | Signed | Yes |
 | Comoros | Eastern Africa | Article 27 | No | - | - | Signed | - |
