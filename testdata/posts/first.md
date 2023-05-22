@@ -96,7 +96,7 @@ Please note that some countries are members of multiple communities.
 | Seychelles | Article 20 |
 | Sierra Leone | Article 22 |
 | Somalia | Article 19 |
-| South Africa | Constitution protects privacy |
+| South Africa | Section 14  |
 | South Sudan | Article 22 and 32 |
 | Sudan | Section 55 |
 | Tanzania | Article 16 |
