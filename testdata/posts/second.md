@@ -1,7 +1,7 @@
 ---
-title: "Towards Automated Data Privacy Compliance in Africa - A Comparative Study of Legislation and a Proposal for a Unified Tool"
-author: "Your Name Here"
-publish_date: 2022-05-02
+title: Towards Automated Data Privacy Compliance in Africa - A Comparative Study of Legislation and a Proposal for a Unified Tool
+author: Xela-R
+publish_date: 2023-05-02
 abstract: "This paper presents a comprehensive analysis of data privacy laws across Africa, examining the impact of the EU's GDPR and exploring the benefits and challenges of unified data privacy laws. It also proposes a tool for automating data privacy compliance, offering a practical solution for businesses, developers, and data protection officers in Africa."
 ---
 
