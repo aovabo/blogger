@@ -7,11 +7,11 @@ abstract: This paper presents a comprehensive analysis of data privacy laws acro
 Pie Charts
 ```mermaid
 pie
-    title sources of data privacy law in Africa
-    "55 National Constitutions" : 386
-    "36 National Data Protection Laws" : 300
-    "African Union (Malabo Convention) " : 85
-    "Regional Economic Communities (ECOWAS)" : 150 
+    title Sources of data privacy laws in Africa
+    "54 of 55 National Constitutions" : 386
+    "36 of 55 National Data Protection Laws" : 300
+    "15 of 55 African Union (Malabo Convention) " : 85
+    "1 of 8Regional Economic Communities (ECOWAS)" : 150 
 ```
 
 
