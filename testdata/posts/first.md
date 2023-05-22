@@ -83,7 +83,7 @@ The Need for Harmonization
 | Tunisia | Northern Africa | Article 24 | Yes | 2004 | Organic Law No. 2004-63 on the Protection of Personal Data | Signed | | 
 | Uganda | Eastern Africa | Article 27 | Yes | 2019 | Data Protection and Privacy Act, 2019 | Signed |
 | Zambia | Eastern Africa | Article 17 | Yes | 2016 | Data Protection Act, 2016 | Ratified (24 March 2021) |
-| Zimbabwe | Southern Africa | Article 57 | Yes | 2019 | Data Protection Act, 2019 | Signed |
+| Zimbabwe | Southern Africa | Article 57 | Yes | 2019 | Data Protection Act, 2019 | - |
 | Sahrawi Arab Democratic Republic | Northern Africa | No explicit provision | No | - | - | - |
 
 
