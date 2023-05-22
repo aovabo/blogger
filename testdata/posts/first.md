@@ -8,10 +8,10 @@ Pie Charts
 ```mermaid
 pie
     title Sources of data privacy laws in Africa
-    "54 of 55 National Constitutions" : 386
-    "36 of 55 National Data Protection Laws" : 300
-    "15 of 55 African Union (Malabo Convention) " : 150
-    "1 of 8 Regional Economic Communities (ECOWAS)" : 85 
+    "54 of 55 National Constitutions" : 98%
+    "36 of 55 National Data Protection Laws" : 65%
+    "15 of 55 African Union (Malabo Convention) " : 27%
+    "1 of 8 Regional Economic Communities (ECOWAS)" : 13% 
 ```
 
 
