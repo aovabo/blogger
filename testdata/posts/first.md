@@ -46,7 +46,7 @@ Please note that some countries are members of multiple communities.
 | Regional Economic Communities | 1 |
 
 
-**By Constitution Provision**
+**By National Constitution Provision**
 
 
 | Country | Constitution Provision |
@@ -106,6 +106,62 @@ Please note that some countries are members of multiple communities.
 | Zambia | Article 17 |
 | Zimbabwe | Article 57 |
 | Sahrawi Arab Democratic Republic | No explicit provision |
+
+
+
+
+
+| Country | Constitution Provision | Data Protection Law | Year of Ratification | Year of Enactment |
+| --- | --- | --- | --- | --- |
+| Angola | Article 32 | Yes | 2020 | 2011 |
+| Algeria | Article 47 | Yes | - | - |
+| Benin | Article 21 | Yes | - | 2017 |
+| Botswana | Articles 3 and 9 | No | - | - |
+| Burkina Faso | 1991 Constitution | Yes | - | 2004 |
+| Burundi | Articles 28 and 42 | No | - | - |
+| Cameroon | Preamble | No | - | - |
+| Cabo Verde | Constitutional right of habeas data | Yes | - | 2001 |
+| Central African Republic (CAR) | Article 16 | No | - | - |
+| Chad | Articles 17 and 49 | Yes | - | - |
+| Comoros | Article 27 | No | - | - |
+| Côte d'Ivoire | Article 8 | Yes | - | 2013 |
+| Democratic Republic of the Congo (DRC) | Article 31 | No | - | - |
+| Djibouti | Article 13 | No | - | - |
+| Egypt | Constitution protects privacy | Yes | - | 2020 |
+| Equatorial Guinea | Article 13 | Yes | - | - |
+| Eritrea | Article 18 | No | - | - |
+| Eswatini | Article 14 | No | - | - |
+| Ethiopia | Article 26 | Yes | - | - |
+| Gabon | Articles 1 and 47 | Yes | - | 2011 |
+| Gambia | Article 23 | No | - | - |
+| Ghana | Article 18(2) | Yes | 2016 | 2012 |
+| Guinea | Article 12 | No | - | - |
+| Guinea-Bissau | Articles 34A and 38 | No | - | - |
+| Kenya | Article 31 | Yes | 2016 | 2019 |
+| Lesotho | Articles 4 and 11 | Yes | - | 2011 |
+| Liberia | Article 16 | No | - | - |
+| Libya | Article 12 and 13 | Yes | - | - |
+| Madagascar | 2010 Constitution | Yes | - | - |
+| Malawi | Section 21 | Yes | - | 2015 |
+| Mali | Constitution protects privacy | Yes | - | - |
+| Mauritania | Article 13 | Yes | 2023 | - |
+| Mauritius | Article 9 | Yes | 2018 | 2017 |
+| Mozambique | Constitution protects privacy | No | - | - |
+| Morocco | Article 24 | Yes | - | 2009 |
+| Namibia | Article 13 | Yes | - | - |
+| Niger | Articles 27 and 29 | Yes | - | - |
+| Nigeria | Section 37 | Yes | - | 2019 |
+| Republic of Congo | Article 26 | No | - | - |
+| Rwanda | Article 23 | Yes | - | 2016 |
+| São Tomé and Príncipe | Article 24 and 25 | Yes | - | - |
+| Senegal | Article 13 | Yes | - | 2010 |
+| Seychelles | Article 20 | No | - | - |
+| Sierra Leone | Article 22 | Yes
+
+
+
+
+
 
 
 
