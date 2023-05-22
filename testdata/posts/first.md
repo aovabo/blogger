@@ -8,9 +8,9 @@ Pie Charts
 ```mermaid
 pie
     title Pie Chart
-    "African Union Convention on Cyber Security and Personal Data Protection" : 386
-    "Regional Economic Communities (ECOWAS)" : 85
-    "National Data Protection Laws" : 150 
+    "National Data Protection Laws" : 386
+    "African Union Convention on Cyber Security and Personal Data Protection" : 85
+    "Regional Economic Communities (ECOWAS)" : 150 
 ```
 
 
