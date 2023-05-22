@@ -4,6 +4,18 @@ publish_date: 2023-05-23
 abstract: This paper presents a comprehensive analysis of data privacy laws across Africa, examining the impact of the EU's GDPR and exploring the benefits and challenges of unified data privacy laws. It also proposes a tool for automating data privacy compliance, offering a practical solution for businesses, developers, and data protection officers in Africa.
 ---
 
+Pie Charts
+```mermaid
+pie
+    title Pie Chart
+    "African Union Convention on Cyber Security and Personal Data Protection" : 386
+    "Regional Economic Communities (ECOWAS)" : 85
+    "National Data Protection Laws" : 150 
+```
+
+
+
+
 It was popularised in the 1960s with the release of Letraset sheets containing
 Lorem Ipsum passages, and more recently with desktop publishing software like
 Aldus PageMaker including versions of Lorem Ipsum.
