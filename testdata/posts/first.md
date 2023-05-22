@@ -1,7 +1,7 @@
 ---
 title: A Comprehensive Study of Data Privacy Laws in Africa - A Pathway to a Unified Privacy Engineering Tool
 publish_date: 2023-05-23 
-abstract: This paper presents a comprehensive analysis of data privacy laws across Africa, examining the impact of data protection legal framework such as the Council of Europe Convention 108 of 28 January 1980 (“Convention 108”), and the now repealed Directive No. 95/46/EC of the European Parliament and of the Council of 24 October 1995, and the European Union's General Data Protection Regulation (GDPR) in 2016. This paper also explore the harmonisation of the African Union Convention on Cyber Security and Personal Data Protection (The Malabo Convention 2014), its benefits, challenges, and the prospects of unified data privacy laws. It also documents the current process of data protection and  privacy compliance and proposes a practical tool for data security and for automating data privacy compliance for businesses, developers, and data protection officers across Africa. The paper also propose technology tools to help data protection authorities This project is meant to build upon existing scholarly work on data protection and data privacy in Africa
+abstract: This paper provides a comprehensive analysis of data privacy laws in Africa, focusing on the impact of key legal frameworks such as the Council of Europe Convention 108, Directive No. 95/46/EC, and the General Data Protection Regulation (GDPR). It explores the harmonization efforts within the African Union Convention on Cyber Security and Personal Data Protection (The Malabo Convention 2014) and discusses the benefits, challenges, and prospects of unified data privacy laws.
 ---
 
 # Introduction
