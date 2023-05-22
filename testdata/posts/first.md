@@ -1,7 +1,7 @@
 ---
 title: Towards Automated Data Privacy Compliance in Africa - A Comparative Study of Legislation and a Proposal for a Unified Tool
 publish_date: 2022-03-20
-abstract: A Tool for Data Security and Compliance
+abstract: This paper presents a comprehensive analysis of data privacy laws across Africa, examining the impact of the EU's GDPR and exploring the benefits and challenges of unified data privacy laws. It also proposes a tool for automating data privacy compliance, offering a practical solution for businesses, developers, and data protection officers in Africa.
 ---
 
 It was popularised in the 1960s with the release of Letraset sheets containing
