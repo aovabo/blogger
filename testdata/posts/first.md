@@ -9,7 +9,7 @@ Pie Charts
 pie
     title Pie Chart
     "National Data Protection Laws" : 386
-    "African Union Convention on Cyber Security and Personal Data Protection" : 85
+    "African Union (Malabo Convention) " : 85
     "Regional Economic Communities (ECOWAS)" : 150 
 ```
 
