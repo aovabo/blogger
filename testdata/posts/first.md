@@ -10,8 +10,8 @@ pie
     title Sources of data privacy laws in Africa
     "54 of 55 National Constitutions" : 386
     "36 of 55 National Data Protection Laws" : 300
-    "15 of 55 African Union (Malabo Convention) " : 85
-    "1 of 8Regional Economic Communities (ECOWAS)" : 150 
+    "15 of 55 African Union (Malabo Convention) " : 150
+    "1 of 8 Regional Economic Communities (ECOWAS)" : 85 
 ```
 
 
