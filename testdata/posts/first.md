@@ -6,24 +6,29 @@ abstract: This paper presents a comprehensive analysis of data privacy laws acro
 
 # Introduction
 
-The African continent consists of 55 countries recognized by the African Union (AU). These countries are divided into five geographic regions and eight regional economic communities. While many African countries have adopted rules governing a generalized right to privacy, the adoption of laws specifically focused on the protection of personal data has been relatively slow. Before 2016, only 16 out of the 55 nations had enacted specific data protection laws. However, as of May 2023, the number of countries with such laws has risen significantly to 36.
+The African continent consists of 55 countries recognized by the African Union (AU). These countries are divided into five geographic regions and eight regional economic communities. 
 
-The global landscape of data protection and privacy has undergone substantial changes, with the introduction of the European Union's General Data Protection Regulation (GDPR) in 2016. These regulatory developments have likely influenced the growing interest in data governance and the need for comprehensive data protection frameworks throughout Africa.
+The global landscape of data protection and privacy has undergone substantial changes, with the introduction of the European Union's General Data Protection Regulation (GDPR) in 2016. These regulatory developments have likely influenced the growing interest in data governance and the need for comprehensive data protection frameworks throughout Africa. While many African countries have adopted rules governing a generalized right to privacy, the adoption of laws specifically focused on the protection of personal data has been relatively slow. Before 2016, only 16 out of the 55 nations had enacted specific data protection laws. However, as of May 2023, the number of countries with such laws has risen significantly to 36.
 
 ## Sources of Data Protection Laws in Africa
-Sources of Data Protection Laws in Africa include:
 
 1. **Constitutional provisions:** Constitutional provisions in 54 African countries have established a generalized right to privacy.
 
 2. **National data protection laws:** Several African countries have enacted specific data protection laws to address the growing need for safeguarding personal data. These laws vary in their scope, content, and effectiveness, reflecting the unique regulatory approaches adopted by each country.
 
-3. **Regional initiatives:** *African Union Convention on Cyber Security and Personal Data Protection (The Malabo Convention)*, adopted by the AU Assembly in 2014, aims to establish a comprehensive legal framework for electronic commerce, data protection, cybercrime, and cybersecurity across the African continent. As of May 2023, 15 countries have ratified the Malabo Convention, and 12 countries have signed the Malabo Convention without ratifying it. *Economic Community of West African States (ECOWAS) Supplementary Act A/SA. 1/01/10 on Personal Data Protection (The ECOWAS Supplementary Act)*, enacted by the ECOWAS, provides guidelines for data protection within its 15 member states. Drawing inspiration from the European Union's former Data Protection Directive, this act emphasizes key principles for processing personal data, with consent as the primary legal basis.
+3. **Regional and Sectoral initiatives:** 
+ - *African Union Convention on Cyber Security and Personal Data Protection (The Malabo Convention)*, adopted by the AU Assembly in 2014, aims to establish a comprehensive legal framework for electronic commerce, data protection, cybercrime, and cybersecurity across the African continent. As of May 2023, 15 countries have ratified the Malabo Convention, and 19 countries have signed the Malabo Convention without ratifying it. 
+ - *Economic Community of West African States (ECOWAS) Supplementary Act A/SA. 1/01/10 on Personal Data Protection (The ECOWAS Supplementary Act)*, enacted by the ECOWAS, provides guidelines for data protection within its 15 member states. Drawing inspiration from the European Union's former Data Protection Directive, this act emphasizes key principles for processing personal data, with consent as the primary legal basis.
+ - The Central African Economic and Monetary Community (CEMAC) has also issued some legislation which is applicable. Notably, Regulation No. 01/20/CEMAC/UMAC/COBAC of 3 July 2020 on the Protection of Consumers of Banking Products and Services in CEMAC provides in article 30 for the right to erasure by allowing for a person to access information that is collected on them and to request its erasure.
+ - Regulation No. 21/08-UEAC-13-CM-18 of 19 December 2008 on the Harmonisation of Regulations and Regulatory Policies on Electronic Communications in CEMAC Member States;
+ - Directive No. 07/08-UEAC-133-CM-18 of 19 December 2008 on the Legal Framework for the Protection of Users of Electronic Communications Networks and Services within CEMAC;
+ - Directive No. 09/08-UEAC-133-CM-18 of 19 December 2008 Harmonising the Legal Frameworks of Electronic Communications in the CEMAC Member States;
+ - Regulation No. 03/16-CEMAC-UMAC-CMAC-CM of 21 December 2016 on Systems, Means and Incidents of Payment;
+ - Directive No. 02/19-UEAC-639-CM-18 of 08 April 2019 Harmonising the Protection of Consumers within CEMAC; and
+ - Regulation No. 01/20/CEMAC/UMAC/COBAC of 03 July 2020 on the Protection of Consumers of Banking Products and Services in CEMAC.
 
 ## Regulatory Landscape
-While the AU and ECOWAS play pivotal roles in shaping data protection in Africa, there is currently no centralized regulatory body governing personal data protection across African bodies. However, both the Malabo Convention and the ECOWAS act provide provisions for the establishment of data protection authorities within respective member states, which is currently being substituted as most of the 36 countries with data protection laws have regulatory authorities to enforce data standards
-have not been created or staffed.
-
-The current state of data privacy law in Africa is characterized by complexity and fragmentation. There is no unified, comprehensive data privacy law that applies uniformly to all AU member states. Instead, a multitude of laws and regulations exist, varying in scope, enforcement mechanisms, and effectiveness. This fragmentation poses challenges for businesses and individuals in understanding their rights and obligations regarding data privacy.
+The current state of data privacy law in Africa is characterized by complexity and fragmentation. There is no unified, comprehensive data privacy law that applies uniformly to all AU member states. Instead, a multitude of laws and regulations exist, varying in scope, enforcement mechanisms, and effectiveness. African nations’ rules governing the protection of personal data are a patchwork, with some countries offering little to no protection policy while others have extensive digital governance frameworks. This fragmentation poses challenges for businesses in understanding their obligations regarding data privacy when doing business across Africa. Many laws are written Arabic, English, French, Portuguese, Spanish.
 
 The Need for Harmonization
 
@@ -95,8 +100,9 @@ The Need for Harmonization
 
 
 
-
-
+This paper explores how personal data are currently governed among AU  mber states, noting common trends and areas of divergence. It also takes a closer
+look at the data protection policies of Egypt, Kenya, Botswana, Ghana, and
+Rwanda.
 
 
 
