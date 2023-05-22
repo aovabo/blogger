@@ -8,3 +8,13 @@ disable_html_sanitization: true
 ## Cool Button Demo
 
 <button onclick="alert('hi!')">Click me!!!!!!</button>
+
+
+```mermaid
+graph LR
+A(African Union Convention on Cyber Security and Personal Data Protection (Malabo Convention))
+B(Regional Economic Communities (RECs))
+C(National Data Protection Laws)
+A -- B
+A -- C
+B -- C
