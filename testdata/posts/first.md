@@ -1,5 +1,5 @@
 ---
-title: Project Privacy
+title: Towards Automated Data Privacy Compliance in Africa - A Comparative Study of Legislation and a Proposal for a Unified Tool
 publish_date: 2022-03-20
 abstract: A Tool for Data Security and Compliance
 ---
