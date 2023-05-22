@@ -36,19 +36,19 @@ The Need for Harmonization
 | Algeria | Northern Africa | Article 47 | Yes | June 10, 2018 | Law No. 18-07 | - | Yes |
 | Angola | Southern Africa | Article 32 | Yes | June 17, 2011 | Data Protection Law (Law No. 22/11) | Ratified (11 May 2020) | Yes |
 | Benin | Western Africa | Article 21 | Yes | 2017 | Law No. 2009-09 and Book V of the 2017 Digital Code of the Republic of Benin | Signed | Yes |
-| Botswana | Southern Africa | Articles 3 and 9 | Yes | August 3, 2018 | Data Protection Act 2018 | No | Yes |
-| Burkina Faso | Western Africa | 1991 Constitution | Yes | 2004 | Law N°010- 2004/AN and Law No. 001-2021 | No | Yes |
+| Botswana | Southern Africa | Articles 3 and 9 | Yes | August 3, 2018 | Data Protection Act 2018 | - | Yes |
+| Burkina Faso | Western Africa | 1991 Constitution | Yes | 2004 | Law N°010- 2004/AN and Law No. 001-2021 | - | Yes |
 | Burundi | Eastern Africa | Articles 28 and 42 | No | - | - | - | - |
 | Cameroon | Central Africa | Preamble | No | -| - | Signed | Yes |
 | Cape Verde | Western Africa | Constitutional right of habeas data | Yes | January 22, 2001| Law No. 133-V-2001 and Law No. 41 and 42 2013  | Ratified (5 February 2022) | Yes |
-| Central African Republic (CAR) | Central Africa | Article 16 | No | - | - | No | No |
-| Chad | Central Africa | Articles 17 and 49 | Yes | 2015 |  Law No. 007/PR/2015 and Law No. 006/PR/2015 | Signed | Yes |
+| Central African Republic (CAR) | Central Africa | Article 16 | No | - | - | - | No |
+| Chad | Central Africa | Articles 17 and 49 | Yes | February 10, 2015 |  Law No. 007/PR/2015 and Law No. 006/PR/2015 | Signed | Yes |
 | Comoros | Eastern Africa | Article 27 | No | - | - | Signed | - |
-| Côte d'Ivoire | Western Africa | Article 8 | Yes | June 19, 2013 | Law No. 2013-450 | Ratified | Yes | 
-| Congo | Central Africa | Article 26 | Yes | 2019 |  Law No. 29-2019  | Ratified (23 October 2020)  |  No| 
+| Côte d'Ivoire | Western Africa | Article 8 | Yes | June 19, 2013 | Law No. 2013-450 | Ratified (3 April 2023) | Yes | 
+| Congo | Central Africa | Article 26 | Yes | 2019 |  Law No. 29-2019  | Ratified (23 October 2020)  | Yes | - |
 | Djibouti | Eastern Africa | Article 13 | No | - | - | Signed | No | 
 | Democratic Republic of Congo | Central Africa | Article 31 | No | - | - | - |
-| Egypt | Northern Africa | Constitution protects privacy | Yes | 2020 | Law No. 151/2020 on the Protection of Personal Data | Signed |
+| Egypt | Northern Africa | Constitution protects privacy | Yes | October 15, 2020 | Resolution No. 151 of 2020 | - | No | 
 | Equatorial Guinea | Central Africa | Article 13 | No | - | - | - |
 | Eritrea | Eastern Africa | Article 18 | No | - | - | - |
 | Eswatini | Southern Africa | Article 14 | No | - | - | - |
