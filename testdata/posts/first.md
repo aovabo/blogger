@@ -389,7 +389,19 @@ Please note that some countries are members of multiple communities.
 
 
 
-
+graph TB
+  A["55 African Countries"]
+  A -- "54 have constitutional provision for privacy" --> B["Constitutional Provision for Privacy"]
+  A -- "36 have Data Protection Laws" --> C["Data Protection Laws"]
+  A -- "15 have ratified the Malabo Convention" --> D["Ratified Malabo Convention"]
+  A -- "19 have signed the Malabo Convention without ratifying" --> E["Signed Malabo Convention"]
+  F["8 Regional Economic Communities in Africa"]
+  F -- "3 have a data privacy act" --> G["Data Privacy Act"]
+  linkStyle 0 stroke:#2ecd71,stroke-width:2px;
+  linkStyle 1 stroke:#2ecd71,stroke-width:2px;
+  linkStyle 2 stroke:#2ecd71,stroke-width:2px;
+  linkStyle 3 stroke:#2ecd71,stroke-width:2px;
+  linkStyle 4 stroke:#2ecd71,stroke-width:2px;
 
 
 
