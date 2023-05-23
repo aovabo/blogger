@@ -14,6 +14,3 @@ blog({
 });
 
 
-
-
-https://github.com/aovabo/blogger/blob/main/testdata/posts/first/IMG_1848.jpeg
