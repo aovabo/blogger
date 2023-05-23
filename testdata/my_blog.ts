@@ -4,7 +4,7 @@ blog({
   author: "Xela-R",
   title: "My Innovation Orchard",
   description: "Thoughts and ideas about the projects that I'm working on.",
-  avatar: "https://github.com/aovabo/blogger/blob/main/testdata/posts/first/IMG_1848.jpeg",
+  avatar: "https://unsplash.com/photos/N3V2uhtuDCo",
   avatarClass: "rounded-full",
   links: [
     { title: "bot@deno.com", url: "mailto:bot@deno.com" },
