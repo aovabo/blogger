@@ -97,14 +97,63 @@ On the whole, the progression of data protection legislation in Africa reveals a
 Today, Africa can claim one continental data protection legislation, four regional economic communities with their own respective legislation or framework, and 36 countries with individual data protection laws. Out of the 55 countries in Africa, 54 nations have a constitutional provision for privacy, albeit generic. The variety within these frameworks and laws presents an intricate mosaic of regulatory landscapes, creating challenges in harmonization, collaboration, and coordination.
 
 
-## Delving into the Malabo Convention
+## The Malabo Convention
 The African Union (AU) launched a series of deliberations concerning the regulation of data protection, cybersecurity, cybercrime, and electronic transactions dating back to the 1990s. This discourse took a more formal shape in 2009 during the Extra-Ordinary Conference of African Union Ministers responsible for Communication and Information Technologies held in South Africa. As a result, the Convention on Cybersecurity and Personal Data Protection 2014 was birthed, adopted by 55 Heads of State and Government in Malabo, Equatorial Guinea.
 
-The Malabo Convention: A Vision of Unified African Data and Privacy Protection
-The Convention imagines a unified African stance on data and privacy protection, pushing for a comprehensive, independent, and rigorous legal framework protecting individuals from data processors and controllers. It emphasizes three key areas of public interest: electronic transactions, personal data protection, and cybersecurity
+**A Vision of Unified African Data and Privacy Protection**
+The Convention imagines a unified African stance on data and privacy protection, pushing for a comprehensive, independent, and rigorous legal framework protecting individuals from data processors and controllers. It emphasizes three key areas of public interest: electronic transactions, personal data protection, and cybersecurity. The convention seeks to ensure accountability from data controllers through a clear definition of state parties' roles and responsibilities as entities subject to liability. A key proposition is the creation of a National Data Protection Authority (DPA), an independent body charged with regulating personal data processing. The DPA is vested with the power to establish procedures for the collection and processing of general and sensitive personal data. It also has the responsibility to either grant or deny authorities this privilege. The convention further clarifies that both government and private players within the Information and Communication Technology sector cannot be members of the national protection authority.Additionally, the Convention advocates for collaboration among public and private sectors, civil society, and academia, while also encouraging international partnerships for promoting a cybersecurity culture.
+
+The Malabo Convention is seen as a tool for collective good as it springs from an examination of the risks of unchecked access to personal data by state and private entities and the need to promote Information and Communication Technology development while respecting individual rights and freedoms. As of 9th May 2023, fifteen (15) member states, with Mauritania being the most recent, have ratified the Convention, nine years after its adoption.
+
+Nevertheless, the time it took for the Convention to gain the necessary 15 domestic ratifications for it to come into force has been a source of delay in its implementation. While generally lauded as a pivotal policy move for the African continent, the Convention has drawn criticism as a legal instrument due to concerns regarding its lack of detailed provisions and enforcement mechanisms.
+
+## African Data Protection Legislations: A Step Towards Harmonization?
+Despite slow progress in ratifying the Malabo Convention, the 36 African countries that have enacted data protection legislations and appointed Data Protection Authorities are making strides towards harmonization. The African Union has established key indicators to monitor the harmonization of this regulatory framework, evaluating states based on their existing personal data protection laws, the presence of minimum requirements as stipulated by the convention in these legislations, and the existence of a national authority for personal data protection.
 
 
+**The Network of African Data Protection Authorities**
+The Network of African Data Protection Authorities (NADPA) was formed in Ouagadougou in September 2016 during the 2nd African Forum of Personal Data Protection Authorities. As of August 2021, the network comprises nineteen member authorities and two authorities with observer status.
 
+Burkina Faso set up the first Data Protection Authority (DPA) in Africa in 2007. Cape Verde, despite being the first African country to enact a data protection law, only established a physical DPA in 2015 when its first set of privacy commissioners were appointed. At present, Africa is home to 24 data protection authorities.
+
+Experience from African countries shows a disparity between passing data protection laws, setting a commencement date, and ultimately enforcing them – with enforcement proving to be the most challenging.
+
+## Current Status of the Malabo Convention Ratification
+As of 12 May 2023, the AU's latest status list on the Malabo Convention includes the following 15 states as having ratified the Convention:
+
+| Country       | Date of Ratification |
+| ------------- | -------------------- |
+| Angola        | 11 May 2020          |
+| Cape Verde    | 5 February 2022      |
+| Côte d’Ivoire | 3 April 2023         |
+| Congo         | 23 October 2020      |
+| Ghana         | 3 June 2019          |
+| Guinea        | 16 October 2018      |
+| Mozambique    | 21 January 2020      |
+| Mauritania    | 9 May 2023           |
+| Mauritius     | 14 March 2018        |
+| Namibia       | 1 February 2019      |
+| Niger         | 16 March 2022        |
+| Rwanda        | 21 November 2019     |
+| Senegal       | 16 August 2016       |
+| Togo          | 19 October 2021      |
+| Zambia        | 24 March 2021        |
+
+The following states have signed the Malabo Convention but are yet to ratify it:
+| Country            | Status                    |
+| ------------------ | ------------------------- |
+| Benin              | Signed, not ratified      |
+| Cameroon           | Signed, not ratified      |
+| Chad               | Signed, not ratified      |
+| Comoros            | Signed, not ratified      |
+| Djibouti           | Signed, not ratified      |
+| Gambia             | Signed, not ratified      |
+| Guinea-Bissau      | Signed, not ratified      |
+| South Africa       | Signed, not ratified      |
+| Sierra Leone       | Signed, not ratified      |
+| Sao Tome and Principe | Signed, not ratified |
+| Sudan              | Signed, not ratified      |
+| Tunisia            | Signed, not ratified      |
 
 
 
