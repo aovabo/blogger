@@ -100,6 +100,10 @@ In Africa, data protection legislation is a complex tapestry of regulatory lands
 
 Beyond national legislation, Africa also has a single continental data protection legislation (The Malabo Convention), along with four regional economic communities that each have their own respective legislation or framework. This diversity in regulations presents considerable challenges in harmonizing, collaborating, and coordinating efforts across different countries and regions. 
 
+Title: Case Studies: Examining the Data Protection Laws in Congo Republic, Rwanda, Mauritania, Zambia, and Nigeria
+
+
+
 
 ## The Malabo Convention: A Vision of Unified African Data and Privacy Protection
 The African Union (AU) launched a series of deliberations concerning the regulation of data protection, cybersecurity, cybercrime, and electronic transactions dating back to the 1990s. This discourse took a more formal shape in 2009 during the Extra-Ordinary Conference of African Union Ministers responsible for Communication and Information Technologies held in South Africa. As a result, the Convention on Cybersecurity and Personal Data Protection 2014 was birthed, adopted by 55 Heads of State and Government in Malabo, Equatorial Guinea.
