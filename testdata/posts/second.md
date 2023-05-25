@@ -1,6 +1,5 @@
 ---
 title: Introducing AfriComply - Automated data security & privacy compliance platform for Africa
-author: Xela-R
 publish_date: 2023-05-02
 abstract: "A project designed to simplify and automate data security and privacy compliance for various stakeholders across Africa."
 ---
