@@ -2,8 +2,8 @@ import blog from "../blog.tsx";
 
 blog({
   author: "Xela-R",
-  title: "My Innovation Orchard",
-  description: "Thoughts and ideas about the projects that I'm working on.",
+  title: "Alexander's Innovation Orchard",
+  description: "Chronicles of my experimental and passion project.",
   avatar: "https://deno-avatar.deno.dev/avatar/blog.svg",
   avatarClass: "rounded-full",
   links: [
