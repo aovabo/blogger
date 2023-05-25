@@ -49,6 +49,8 @@ Understanding these regional dynamics is crucial for grasping the complexity and
 Given the overlapping memberships in these economic communities, it's important to recognize that legislation in these countries can be influenced by multiple regional frameworks simultaneously. This intricacy often impacts the legislative landscape, including the development and implementation of data protection laws.
 
 Let's start by exploring the regional context of Africa, as outlined in the following tables:
+
+
 **Regions**
 
 | Region | Countries |
