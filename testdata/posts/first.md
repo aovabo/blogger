@@ -19,10 +19,6 @@ This paper explores the dynamic, complex, and uneven landscape of data protectio
 **KEYWORDS**
 Data Protection; Data Privacy; Cybersecurity; Africa; Data Protection Laws; Artificial Intelligence; Machine Learning; Generative AI; Malabo Convention; GDPR; Regulatory Compliance
 
-ACM Reference Format:
-Alexander C. Ovabor. 2023. "Towards Harmonizing Data Protection Laws in Africa: Challenges, Opportunities, and the Role of AI." In Proceedings of the ACM on Measurement and Analysis of Computing Systems, Vol. X, No. X, Article X (Month Year), Pages X–X. ACM, New York, NY, USA. DOI: https://doi.org/10.1145/nnnnnnn.nnnnnnn
-
-
 
 ## Introduction
 
