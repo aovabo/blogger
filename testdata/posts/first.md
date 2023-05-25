@@ -245,15 +245,7 @@ Presently, the most widely used tools for privacy management in Africa are EComp
 
 The sheer complexity organizations of all sizes face in managing consumer data across several industry verticals is driving the need for scalable, efficient, technological solutions. As a result, organizations are increasing their compliance and risk-assessment budgets. The continued adoption of consumer privacy regulations at the continental, regional, and national levels around Africa will undoubtedly propel the need for privacy technology solutions and tools.
 
-**Introducing AfriComply**
-
-Data is often considered the new oil in the tech industry. Organizations heavily rely on data to power their operations, and this dependence shows no sign of slowing down. With the burgeoning volume of data, African organizations must transcend mere compliance checklists managed with surveys and spreadsheets. AfriComply aims to address this by providing an innovative solution designed to meet the complexity of Africa's data protection laws.
-
-As we've seen, organizations are becoming more aware that privacy is not just a legal challenge solvable with privacy policies and abstract implementations. The tools currently used to meet data protection requirements need to evolve to match the sophistication of the legislation. This is where AfriComply steps in.
-
-AfriComply is a new startup designed to simplify and automate data security and privacy compliance for various stakeholders. These include businesses, developers, data protection officers, and data protection authorities in Africa. We believe that organizations need to automate their practices to stay atop compliance requirements. And not only should developers view privacy as a necessity instead of an afterthought, but also privacy solutions and tools should be geared towards a diverse set of users - from lawyers and consultants to developers, data scientists, and data protection authorities.
-
-##  Need for AfriComply
+**Machine Learning & Artificial Intelligence 
 
 
 
