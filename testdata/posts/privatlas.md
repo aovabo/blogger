@@ -135,12 +135,63 @@ Beyond national legislation, Africa also has a single continental data protectio
 
 ## Detailed Review of African Countries with Data Protection Laws
 
-
-
-
-
-
-
+| Country    | Region  | Constitutional Provision for Privacy Law | National Data Protection Law | Year of Enactment | Data Protection Law Name             | Ratification Status of AU Privacy Law | Data Protection Authority Appointed |
+|------------|---------|----------------------------------------|------------------------------|--------------------|--------------------------------------|-------------------------------------|-------------------------------------|
+| Algeria | Northern Africa | Article 47 | Yes | June 10, 2018 | Law No. 18-07 | - | Yes |
+| Angola | Southern Africa | Article 32 | Yes | June 17, 2011 | Data Protection Law (Law No. 22/11) | Ratified (11 May 2020) | Yes |
+| Benin | Western Africa | Article 21 | Yes | 2017 | Law No. 2009-09 and Book V of the 2017 Digital Code of the Republic of Benin | Signed | Yes |
+| Botswana | Southern Africa | Articles 3 and 9 | Yes | August 3, 2018 | Data Protection Act 2018 | - | Yes |
+| Burkina Faso | Western Africa | 1991 Constitution | Yes | 2004 | Law N°010- 2004/AN and Law No. 001-2021 | - | Yes |
+| Burundi | Eastern Africa | Articles 28 and 42 | No | - | - | - | - |
+| Cameroon | Central Africa | Preamble | No | -| - | Signed | Yes |
+| Cape Verde | Western Africa | Constitutional right of habeas data | Yes | January 22, 2001| Law No. 133-V-2001 and Law No. 41 and 42 2013  | Ratified (5 February 2022) | Yes |
+| Central African Republic (CAR) | Central Africa | Article 16 | No | - | - | - | No |
+| Chad | Central Africa | Articles 17 and 49 | Yes | February 10, 2015 |  Law No. 007/PR/2015 and Law No. 006/PR/2015 | Signed | Yes |
+| Comoros | Eastern Africa | Article 27 | No | - | - | Signed | - |
+| Côte d'Ivoire | Western Africa | Article 8 | Yes | June 19, 2013 | Law No. 2013-450 | Ratified (3 April 2023) | Yes | 
+| Congo | Central Africa | Article 26 | Yes | 2019 |  Law No. 29-2019  | Ratified (23 October 2020)  | Yes | - |
+| Djibouti | Eastern Africa | Article 13 | No | - | - | Signed | No | 
+| Democratic Republic of Congo | Central Africa | Article 31 | No | - | - | - |
+| Egypt | Northern Africa | Constitution protects privacy | Yes | October 15, 2020 | Resolution No. 151 of 2020 | - | No | 
+| Equatorial Guinea | Central Africa | Article 13 | No | - | - | - |
+| Eritrea | Eastern Africa | Article 18 | No | - | - | - |
+| Eswatini | Southern Africa | Article 14 | No | - | - | - |
+| Ethiopia | Eastern Africa | Article 26 | Yes | 2019 | Proclamation No. 1170/2019 on the Protection of Personal Data | Signed |
+| Gabon | Central Africa | Articles 1 and 47 | Yes | 2019 | Law No. 025/2019 on the Protection of Personal Data | Ratified |
+| Gambia | Western Africa | Article 23 | Yes | 2013 | Data Protection Act, 2013 | Signed |
+| Ghana | Western Africa | Article 18(2) | Yes | 2012 | Data Protection Act, 2012 (Act 843) | Ratified (3 June 2019) |
+| Guinea | Western Africa | Article 12 | Yes | 2021 | Law No. 2011/002 on the Protection of Personal Data | Ratified (16 October 2018) |
+| Guinea-Bissau | Western Africa | Articles 34A and 38 | No | - | - | Signed | | 
+| Kenya | Eastern Africa | Article 31 | Yes | 2019 | Data Protection Act, 2019 | Signed |
+| Lesotho | Southern Africa | Articles 4 and 11 | No | - | - | - |
+| Liberia | Western Africa | Article 16 | Yes | 2019 | Data Protection Act, 2019 | Signed |
+| Libya | Northern Africa | Articles 12 and 13 | No | - | - | - |
+| Madagascar | Eastern Africa | 2010 Constitution | No | - | - | - |
+| Malawi | Eastern Africa | Section 21 | Yes | 2018 | Data Protection Act, 2018 | Ratified |
+| Mali | Western Africa | Constitution protects privacy | Yes | 2021 | Law No. 2018-022 on the Protection of Personal Data | Ratified |
+| Mauritania | Western Africa | Article 13 | Yes | 2007 | Law No. 2007-048 on the Protection of Personal Data | Ratified  (9 May 2023) |
+| Mauritius | Eastern Africa | Article 9 | Yes | 2017 | Data Protection Act 2017 | Ratified (14 March 2018) |
+| Morocco | Northern Africa | Article 24 | Yes | 2009 | Law No. 09-08 on the Protection of Individuals with Regard to the Processing of Personal Data | Ratified | | 
+| Mozambique | Eastern Africa | Constitution protects privacy | Yes | 2021 | Data Protection Law (Law No. 34/2021) | Ratified (21 January 2020) |  |
+| Namibia | Southern Africa | Article 13 | Yes | 2013 | Protection of Personal Information Act, 2013 | Ratified (1 February 2019) |
+| Niger | Western Africa | Articles 27 and 29 | Yes | 2011 | Law No. 2011-35 on the Protection of Personal Data | Ratified (16 March 2022) |
+| Nigeria | Western Africa | Section 37 | Yes | 2019 | Nigeria Data Protection Regulation (NDPR) | Ratified |
+| Rwanda | Eastern Africa | Article 23 | Yes | 2019 | Law No. 21/2013 on Personal Data Protection | Ratified (21 November 2019) |
+| Sahrawi Arab Democratic Republic | Northern Africa | No explicit provision | No | - | - | - |
+| São Tomé and Príncipe | Western Africa | Article 24 and 25 | Yes | 2018 | Personal Data Protection Law (Law No. 6/2018) | Signed | | 
+| Senegal | Western Africa | Article 13 | Yes | 2008 | Law No. 2008-12 on the Protection of Personal Data | Ratified (16 August 2016) |
+| Seychelles | Eastern Africa | Article 20 | Yes | 2003 | Data Protection Act, 2003 | Ratified |
+| Sierra Leone | Western Africa | Article 22 | Yes | 2019 | Data Protection Act, 2019 | Signed |
+| Somalia | Eastern Africa | Article 19 | No | - | - | - |
+| South Africa | Southern Africa | Section 14 | Yes | 2013 | Protection of Personal Information Act, 2013 (POPIA) | Signed |
+| South Sudan | Eastern Africa | Article 22 and 32 | No | - | - | - |
+| Sudan | Northern Africa | Section 55 | No | - | - | Signed | | 
+| Tanzania | Eastern Africa | Article 16 | Yes | 2019 | The Data Protection Act, 2019 | Signed |
+| Togo | Western Africa | Article 28 | Yes | 2019 | Law No. 2009-013 on the Protection of Personal Data | Ratified (19 October 2021) |
+| Tunisia | Northern Africa | Article 24 | Yes | 2004 | Organic Law No. 2004-63 on the Protection of Personal Data | Signed | | 
+| Uganda | Eastern Africa | Article 27 | Yes | February 25, 2019 | Data Protection and Privacy Act, 2019 | - | | 
+| Zambia | Eastern Africa | Article 17 | Yes | March 24, 2021 | Data Protection Act, 2016 | Ratified (24 March 2021) | |
+| Zimbabwe | Southern Africa | Article 57 | Yes | December 7, 2021 | Data Protection Act, 2019 | - |
 
 
 
@@ -245,4 +296,4 @@ Presently, the most widely used tools for privacy management in Africa are EComp
 
 The sheer complexity organizations of all sizes face in managing consumer data across several industry verticals is driving the need for scalable, efficient, technological solutions. As a result, organizations are increasing their compliance and risk-assessment budgets. The continued adoption of consumer privacy regulations at the continental, regional, and national levels around Africa will undoubtedly propel the need for privacy technology solutions and tools.
 
-**Machine Learning & Artificial Intelligence 
+**Machine Learning & Artificial Intelligence** 
