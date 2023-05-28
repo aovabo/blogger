@@ -1,5 +1,5 @@
 ---
-title: AfriComply: Championing Privacy Compliance and Cloud Data Security in Africa
+title: AfriComply - Championing Privacy Compliance and Cloud Data Security in Africa
 publish_date: 2023-05-02
 abstract: "A project designed to simplify and automate data security and privacy compliance for various stakeholders across Africa."
 ---
