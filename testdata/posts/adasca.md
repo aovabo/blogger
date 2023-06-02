@@ -23,36 +23,3 @@ disable_html_sanitization: true
 
 
 
-
-
-
-
-
-
-## Cool Button Demo
-
-<button onclick="alert('hi!')">Click me!!!!!!</button>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
