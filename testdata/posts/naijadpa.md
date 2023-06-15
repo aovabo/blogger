@@ -80,7 +80,7 @@ That's why we're introducing the [**AfriComply DataDiscover Tool**](https://disc
 
 Launching next week, the AfriComply DataDiscover Tool is easy to use. It connects with your primary email (Gmail to start with; we will expand to Yahoo and Microsoft email accounts in the future). Our tool uses AI to scan your email inbox, identifying companies that interact with your data based on email subject lines and metadata.
 
-You might ask, why trust us? At AfriComply, data security and privacy are more than just words; they form the very core of what we do. We've performed conducted security assessments and penetration tests on our systems to ensure your data's safety.
+You might ask, why trust us? At AfriComply, data security and privacy are more than just words; they form the very core of what we do. We've conducted security assessments and penetration tests on our systems to ensure your data's safety.
 
 To keep your emails secure, we operate with gmail.readonly access, which allows us to identify companies holding your data without altering or deleting any of your email content. We also use OpenID access to view your basic profile info and email address for your login profile and to verify your identity.
 
