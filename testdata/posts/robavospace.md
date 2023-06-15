@@ -6,3 +6,5 @@ abstract: This paper provides a comprehensive analysis of data privacy laws in A
 ---
 
 <img src="first/rspacet.png"/>
+
+<img src="first/rspaceo.png"/>
