@@ -14,13 +14,13 @@ In 2013, the National Information Technology Development Agency (NITDA) launched
 
 The Nigerian Data Protection Regulation (NDPR), launched by NITDA in 2019, marked the next step in strengthening data protection, aiming to safeguard the rights of Nigerian citizens while also boosting the global competitiveness of Nigerian businesses.
 
-Despite the strides made with the NDPR, it faced criticism due to its limited efficacy and enforceability, as it was not an Act of the National Assembly. This prompted the creation of the Data Protection Bill, which, on June 14, 2023, was signed into law by the President, officially becoming the Data Protection Act. This Act, being a comprehensive law, offers a binding legal framework for data protection in Nigeria.
+Despite the strides made with the NDPR, it faced criticism due to its limited efficacy and enforceability, as it was not an Act of the National Assembly. This prompted the creation of the Data Protection Bill 2022, which, on June 14, 2023, was signed into law by the President, officially becoming the Data Protection Act. This Act, being a comprehensive law, offers a binding legal framework for data protection in Nigeria.
 
 
 ## Unpacking the Data Protection Act: Principles, Exemptions, Applications, and More
 In an era where data is no less than digital gold, protecting it becomes paramount. Recognizing this need, Nigeria's Data Protection Act was enacted, a landmark legislation set to redefine data privacy norms. Yet, amid the buzz, there's significant ambiguity about the Act's real implications for the everyday consumer.
 
-First off, let's dispel the myths: The Act isn't about the cost of internet data or surveillance by the government. Instead, it focuses on preventing the misuse of your personal data. It introduces a stringent framework to regulate how personal data is processed, fortifying individual privacy rights in the process. The Act outlines our rights as consumers (data subjects), defines the responsibilities of entities that handle our data (data controllers), and delineates the role of the Data Protection Commission in ensuring compliance with the law.
+First off, let's dispel the myths: The Act isn't about the cost of internet data or surveillance by the government. Instead, it focuses on preventing the misuse of your personal data. It introduces a stringent framework to regulate how personal data is processed, fortifying individual privacy rights in the process. The Act outlines our rights as consumers (**data subjects**), defines the responsibilities of entities that handle our data (**data controllers**), and delineates the role of the Data Protection Commission in ensuring compliance with the law.
 
 As we embark on this deep dive into the Act, it's crucial to understand some key terms, principles, and exceptions that the Act introduces. We'll also explore the lawful basis for processing personal data, the Act's practical applications, and most importantly, the protection and rights it offers us as consumers. Stay with us as we unravel the Data Protection Act and its impact on you.
 
