@@ -5,7 +5,7 @@ abstract: "The Act does not pertain to the monetary value of internet data or go
 ---
 
 
-<img src="second/ruth.png"/>
+<img src="first/ruth.png"/>
 
 ## A Brief History of Data Protection Laws in Nigeria
 The road to data privacy in Nigeria has been an evolutionary process anchored by the constitutional provision for the right to privacy. Section 37 of the 1999 Constitution of the Federal Republic of Nigeria guarantees and protects the privacy of citizens, their homes, correspondence, telephone conversations, and telegraphic communications.
