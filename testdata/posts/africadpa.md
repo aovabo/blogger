@@ -136,8 +136,8 @@ Beyond national legislation, Africa also has a single continental data protectio
 
 ## Detailed Review of African Countries with Data Protection Laws
 
-| Country    | Region  | Constitutional Provision for Privacy Law | National Data Protection Law | Year of Enactment | Data Protection Law Name           | Data Protection Authority Appointed |
-|------------|---------|----------------------------------------|------------------------------|--------------------|--------------------------------------|-------------------------------------|
+| Country  | Constitutional Provision for Privacy Law | National Data Protection Law | Year of Enactment | Data Protection Law Name           | Data Protection Authority Appointed |
+|------------| ----------------------------------------|------------------------------|--------------------|--------------------------------------|-------------------------------------|
 | Algeria | Northern Africa | Article 47 | Yes | June 10, 2018 | Law No. 18-07 | - | Yes |
 | Angola | Southern Africa | Article 32 | Yes | June 17, 2011 | Data Protection Law (Law No. 22/11) | Ratified (11 May 2020) | Yes |
 | Benin | Western Africa | Article 21 | Yes | 2017 | Law No. 2009-09 and Book V of the 2017 Digital Code of the Republic of Benin | Signed | Yes |
