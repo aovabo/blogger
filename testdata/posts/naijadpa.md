@@ -97,7 +97,7 @@ So, as you navigate your digital life, rest assured that the Data Protection Act
 
 For those who wish to delve into the finer details of the Act, you can access the full text of the [Data Protection Bill](https://ndpb.gov.ng/Files/Nigeria_Data_Protection_Bill.pdf) here. In case you need to report a data protection issue, the [Nigeria Data Protection Commission](https://ndpb.gov.ng/) is the right place to go.
 
-For the announcement and more privacy awareness content, be sure to [follow us on Twitter](https://twitter.com/africomply). 
+For the announcement and more privacy awareness content, be sure to follow us on [Twitter](https://twitter.com/africomply). 
 
 
 
