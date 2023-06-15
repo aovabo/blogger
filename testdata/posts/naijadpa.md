@@ -22,7 +22,7 @@ In an era where data is no less than digital gold, protecting it becomes paramou
 
 First off, let's dispel the myths: The Act isn't about the cost of internet data or surveillance by the government. Instead, it focuses on preventing the misuse of your personal data. It introduces a stringent framework to regulate how personal data is processed, fortifying individual privacy rights in the process. The Act outlines our rights as consumers (**data subjects**), defines the responsibilities of entities that handle our data (**data controllers**), and delineates the role of the Data Protection Commission in ensuring compliance with the law.
 
-As we embark on this deep dive into the Act, it's crucial to understand some key terms, principles, and exceptions that the Act introduces. We'll also explore the lawful basis for processing personal data, the Act's practical applications, and most importantly, the protection and rights it offers us as consumers. Stay with us as we unravel the Data Protection Act and its impact on you.
+As we embark on this deep dive into the Act, it's crucial to understand some key terms, principles, and exceptions that the Act introduces. We'll also explore the lawful basis for processing personal data, the Act's practical applications, and most importantly, the protection and rights it offers us as consumers. 
 
 ## Terminologies
 Let's decode some key terminologies below:
@@ -73,9 +73,31 @@ The Data Protection Act aims to put control of personal data back where it belon
 
 **Right to Civil Remedies:** If you suffer any injury, loss, or harm as a result of a violation of the Act by a data controller or processor, you have the right to recover damages through civil proceedings.
 
-## Conclusion
-In a nutshell, the Data Protection Act serves as your armor, protecting you from potential infringements on your data privacy. It gives you control over your digital footprint while ensuring that organizations handling your personal data do so responsibly and in adherence with a strong legal framework. This Act signifies a considerable stride towards protecting the rights of consumers in the digital age, empowering you to navigate the digital world with confidence and security.
+## Curious About Who Holds Your Personal Data Online? 
+As enshrined in the new Data Protection Act, you have the right to control your personal data. At AfriComply, we're committed to making that control accessible and effortless for you.
 
+That's why we're introducing the [**AfriComply DataDiscover Tool**](https://discover.africomply.com/), a user-friendly platform designed to help you understand who holds your data and what they know about you.
+
+Launching next week, the AfriComply DataDiscover Tool is easy to use. It connects with your primary email (Gmail to start with; we will expand to Yahoo and Microsoft email accounts in the future). Our tool uses AI to scan your email inbox, identifying companies that interact with your data based on email subject lines and metadata.
+
+You might ask, why trust us? At AfriComply, data security and privacy are more than just words; they form the very core of what we do. We've performed conducted security assessments and penetration tests on our systems to ensure your data's safety.
+
+To keep your emails secure, we operate with gmail.readonly access, which allows us to identify companies holding your data without altering or deleting any of your email content. We also use OpenID access to view your basic profile info and email address for your login profile and to verify your identity.
+
+You can access the tool at [**AfriComply DataDiscover Tool**](https://discover.africomply.com/) once we go live next week. 
+
+## In Conclusion: Your Data, Your Rights
+Understanding the Data Protection Act may seem daunting, but it's essential. Why? Because this law is about you – your data, your privacy, your rights. It's your shield against data misuse and privacy breaches in our increasingly digital world.
+
+Remember, the Act isn't about internet costs or government surveillance. It's about protecting your personal information from misuse. It outlines the rules that businesses must follow when handling your data, ensuring they treat your information responsibly, transparently, and legally.
+
+In essence, the Data Protection Act gives you the reins, allowing you to control who holds your data, what they can do with it, and even empowers you to demand its deletion. With the introduction of the AfriComply tool, you can exercise these rights conveniently, ensuring you're fully informed about where your data resides.
+
+So, as you navigate your digital life, rest assured that the Data Protection Act and AfriComply have your back. Feel empowered knowing you're protected, informed, and in control of your personal data. After all, your data belongs to you and should serve your interests, not the other way around.
+
+For those who wish to delve into the finer details of the Act, you can access the full text of the [Data Protection Bill](https://ndpb.gov.ng/Files/Nigeria_Data_Protection_Bill.pdf) here. In case you need to report a data protection issue, the [Nigeria Data Protection Commission](https://ndpb.gov.ng/) is the right place to go.
+
+For the announcement and more privacy awareness content, be sure to [follow us on Twitter](https://twitter.com/africomply). 
 
 
 
