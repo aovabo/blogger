@@ -12,7 +12,7 @@ My adventure started in 2020 with Future VC's Virtual Masterclasses, where I lea
 
 In March 2022, I completed Doriot Academy's Startup Investing Course and became a [Sophisticated Startup Investor](https://www.credential.net/06e4482c-1f2c-464f-a902-61f01c7d4469#gs.0rn94q). 
 
-Then, in early 2021, I took a big step and started [Robavo Expeditions](https://www.robavo.xyz) and [Ovabor Development Labs](https://www.ovabor.xyz). where I work on civic and deep tech projects with some of the brightest minds in tech and design.
+Then, in early 2021, I took a big step and started [Robavo Expeditions](https://www.robavo.xyz) and [Ovabor Development Labs](https://www.ovabor.xyz), where I work on civic and deep tech projects with some of the brightest minds in tech and design.
 
 **I owe a lot of my learning and growth to the Future VC team, Rohit, Hillary, Timi, Gigi, and Olumide.**
 
