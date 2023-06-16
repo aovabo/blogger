@@ -14,4 +14,4 @@ This paper examines the prevalent challenges in the used heavy equipment market 
 
 ## Introduction
 
-<img src="first/yc.jpeg"/>
+<img src="first/YC.jpeg"/>
