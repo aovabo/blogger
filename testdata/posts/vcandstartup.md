@@ -6,15 +6,25 @@ abstract: "This piece offers an engaging and informative dive into the realm of 
 
 <img src="first/doriot.png"/>
 
-If you love tech entrepreneurship, venture capital, and invention like I do, you'll enjoy this post. Here, I will share helpful resources I used to learn about venture building and investing. This includes online courses, books, articles, and more. I hope they are helpful to you too!
+In this piece, I'll share my journey into tech entrepreneurship, venture capital, and invention, and the resources that guided me. I hope it's just as interesting for you as it was for me!
 
-Here are some key points about my journey:
+My adventure started in 2020 with Future VC's Virtual Masterclasses, where I learned the nitty-gritty of venture capital. I was fortunate to work alongside Rohit, a cybersecurity investor at Plug and Play during the program, and later, I had the opportunity to work as a [VentureCorps Analyst](https://www.crunchbase.com/person/alex-ovabor) at AVG and as an [Operations Associate/Chief of Staff](https://www.roundtripafrika.com/people) at Roundtrip.
 
-My learning journey in venture building and investing began in 2020. I joined the Future VC – Virtual Masterclasses. There, I learned about how money works in venture capital, how to raise funds, how to judge pitches, and the history of venture capital. During these classes, I was paired with Rohit, a cybersecurity investor at Plug and Play. After the classes, I worked as a [VentureCorps Analyst](https://www.crunchbase.com/person/alex-ovabor) at AVG and as an [Operations Associate/Chief of Staff](https://www.roundtripafrika.com/people) at Roundtrip.
+In March 2022, I completed Doriot Academy's Startup Investing Course and became a [Sophisticated Startup Investor](https://www.credential.net/06e4482c-1f2c-464f-a902-61f01c7d4469#gs.0rn94q) . I owe a lot of my learning and growth to the Future VC team, Rohit, Hillary, Timi, Gigi, and Olumide.
 
-I am very thankful to the Future VC team, Rohit, Hillary, Timi, Gigi, and Olumide. They gave me a chance to learn about venture building and investing.
+Then, in early 2021, I took a big step and started [Robavo Expeditions](https://www.robavo.xyz) and [Ovabor Development Labs](https://www.ovabor.xyz). where I work on civic and deep tech projects with some of the brightest minds in tech and design.
 
-In early 2021, I started [Robavo Expeditions](https://www.robavo.xyz) and [Ovabor Development Labs](https://www.ovabor.xyz). An early-stage fund and a venture studio. We focus on civic and deep tech projects. Through this lab, I've worked on a few projects with some very interesting people in tech and design.
+## My Role at Ovabor Labs: Building and Growing Ideas
+
+At Ovabor Labs, our mission is to create the next wave of groundbreaking civic and deep tech companies. I spend a lot of my time coming up with and testing new ideas.  I also work on making the lab better through learning experiments and big ideas. My job involves planning the way forward and checking the ideas for any technical, business, or product risks. It's also my job to decide whether to go ahead with or drop an idea. 
+
+**We have a robust process in place that either validates these ideas or, if they don't measure up, ruthlessly discards them.**
+The best ideas undergo an iterative product development process, with our sights constantly trained on their potential to evolve into businesses worthy of venture backing. When we're fully confident about a business concept's potential, we invest substantial time and resources to transform these ideas into venture-funded companies that quickly find favour with customers and markets.
+
+I also keep up-to-date with scientific research, articles, and patents that are related to what we do at Ovabor Labs. I keep an eye on market trends, competition, and important changes in the industry. I work to connect with important people, competitors, and experts, and I make investment plans based on our research.
+
+For each project, I look at the key scientific and technical risks. I also identify who could be competitors or partners for the project. I check the project's R&D plan and business strategy, and help prepare notes for internal investment meetings, which includes making pitch decks. My work helps drive Ovabor Labs forward in the tech business world.
+
 
 ## Blockquote
 
