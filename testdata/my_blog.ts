@@ -7,7 +7,7 @@ blog({
   avatar: "https://deno-avatar.deno.dev/avatar/blog.svg",
   avatarClass: "rounded-full",
   links: [
-    { title: "blog@ovabor.xyz", url: "mailto:research@ovabor.xyz" },
+    { title: "blog@ovabor.xyz", url: "mailto:blog@ovabor.xyz" },
     { title: "GitHub", url: "https://github.com/ovabo" },
     { title: "Twitter", url: "https://twitter.com/aovabo" },
   ],
