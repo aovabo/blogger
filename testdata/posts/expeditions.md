@@ -14,7 +14,10 @@ In March 2022, I completed Doriot Academy's Startup Investing Course and became 
 
 Then, in early 2021, I took a big step and started [Robavo Expeditions](https://www.robavo.xyz) and [Ovabor Development Labs](https://www.ovabor.xyz), where I work on civic and deep tech projects with some of the brightest minds in tech and design.
 
-**I owe a lot of my learning and growth to the Future VC team, Rohit, Hillary, Timi, Gigi, and Olumide.**
+## Quote
+
+> “ARD in making an investment is in no way ‘gambling.’ Gambling is win or lose; ARD is the opposite, invest and build” - Georges Doriot
+
 
 ## My Role at Ovabor Labs: Building and Growing Ideas
 
@@ -27,10 +30,8 @@ I also keep up-to-date with scientific research, articles, and patents that are 
 
 For each project, I look at the key scientific and technical risks. I also identify who could be competitors or partners for the project. I check the project's R&D plan and business strategy, and help prepare notes for internal investment meetings, which includes making pitch decks.
 
+**I owe a lot of my learning and growth to the Future VC team, Rohit, Hillary, Timi, Gigi, and Olumide.**
 
-## Quote
-
-> “ARD in making an investment is in no way ‘gambling.’ Gambling is win or lose; ARD is the opposite, invest and build” - Georges Doriot
 
 ***
 ## Venture Investing
