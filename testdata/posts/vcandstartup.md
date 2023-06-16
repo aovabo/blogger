@@ -10,9 +10,11 @@ In this piece, I'll share my journey into tech entrepreneurship, venture capital
 
 My adventure started in 2020 with Future VC's Virtual Masterclasses, where I learned the nitty-gritty of venture capital. I was fortunate to work alongside Rohit, a cybersecurity investor at Plug and Play during the program, and later, I had the opportunity to work as a [VentureCorps Analyst](https://www.crunchbase.com/person/alex-ovabor) at AVG and as an [Operations Associate/Chief of Staff](https://www.roundtripafrika.com/people) at Roundtrip.
 
-In March 2022, I completed Doriot Academy's Startup Investing Course and became a [Sophisticated Startup Investor](https://www.credential.net/06e4482c-1f2c-464f-a902-61f01c7d4469#gs.0rn94q) . I owe a lot of my learning and growth to the Future VC team, Rohit, Hillary, Timi, Gigi, and Olumide.
+In March 2022, I completed Doriot Academy's Startup Investing Course and became a [Sophisticated Startup Investor](https://www.credential.net/06e4482c-1f2c-464f-a902-61f01c7d4469#gs.0rn94q). 
 
 Then, in early 2021, I took a big step and started [Robavo Expeditions](https://www.robavo.xyz) and [Ovabor Development Labs](https://www.ovabor.xyz). where I work on civic and deep tech projects with some of the brightest minds in tech and design.
+
+**I owe a lot of my learning and growth to the Future VC team, Rohit, Hillary, Timi, Gigi, and Olumide.**
 
 ## My Role at Ovabor Labs: Building and Growing Ideas
 
