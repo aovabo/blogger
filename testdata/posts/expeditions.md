@@ -1,6 +1,6 @@
 ---
 title: A Personal Journey through Venture Building and Venture investing
-publish_date: 2022-12-06
+publish_date: 2021-01-06
 abstract: "This piece offers an engaging and informative dive into the realm of technology entrepreneurship, venture capital, and invention, told through the personal journey of the author. Readers are introduced to key resources that have been pivotal in the author's understanding of venture building and investing, including online courses, books, and articles."
 ---
 
