@@ -13,7 +13,7 @@ This collection of resources is packed full of useful information that can help 
 
 So what are you waiting for? Start exploring today!
 
-## Blockquote
+## Quote
 
 > “Knowing is not enough; we must apply. Willing is not enough; we must do.” - Johann Wolfgang von Goethe
 
