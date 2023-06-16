@@ -1,5 +1,8 @@
-
-
+---
+title: A Persobal Journey through Venture Building and Venture investing
+publish_date: 2023-06-14
+abstract: "This piece offers an engaging and informative dive into the realm of technology entrepreneurship, venture capital, and invention, told through the personal journey of the author. Readers are introduced to key resources that have been pivotal in the author's understanding of venture building and investing, including online courses, books, and articles."
+---
 
 If you love tech entrepreneurship, venture capital, and invention like I do, you'll enjoy this post. Here, I will share helpful resources I used to learn about venture building and investing. This includes online courses, books, articles, and more. I hope they are helpful to you too!
 
