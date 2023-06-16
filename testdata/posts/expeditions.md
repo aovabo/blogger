@@ -28,7 +28,7 @@ I also keep up-to-date with scientific research, articles, and patents that are 
 For each project, I look at the key scientific and technical risks. I also identify who could be competitors or partners for the project. I check the project's R&D plan and business strategy, and help prepare notes for internal investment meetings, which includes making pitch decks.
 
 
-## Blockquote
+## Quote
 
 > “ARD in making an investment is in no way ‘gambling.’ Gambling is win or lose; ARD is the opposite, invest and build” - Georges Doriot
 
