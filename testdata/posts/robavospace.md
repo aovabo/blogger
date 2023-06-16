@@ -2,7 +2,7 @@
 title: Revolutionizing the African Space Sector - A Robavo Space Perspective
 publish_date: 2023-01-20 
 readtime:
-abstract: The African space sector, although gradually progressing with 53 satellites launched from 15 countries as of April 2023, still faces considerable challenges such as limited indigenous expertise, heavy dependence on foreign entities like China, Europe, and the USA, and scarce space-related education. This paper explores these challenges and introduces Robavo Space Technologies, a comprehensive solution with potential to reshape the African space landscape.
+abstract: The African space sector, although gradually progressing with 53 satellites launched from 15 countries as of April 2023, still faces considerable challenges such as limited indigenous expertise, heavy dependence on foreign entities like China, Europe, and the USA, and scarce space-related education. This paper explores these challenges and introduces a comprehensive solution with potential to reshape the African space landscape.
 ---
 
 ## Abstract
