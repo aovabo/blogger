@@ -6,16 +6,13 @@ abstract: Delve into the captivating world of spacecraft and rockets with this c
 <p align="center"><img src="https://www.nasa.gov/sites/default/files/thumbnails/image/artemis_illustration.jpg" alt="Artemis Illustration"></p>
 
 
-I have put together a great studying resource for anyone interested in spacecraft and rockets [1]. The study of spacecraft and rockets is a fascinating endeavor that can take you on amazing adventures. It can also lead to an exciting career in the aerospace industry. But even if you never pursue a career in this field, learning about spacecraft and rockets will give you a deeper understanding of our universe and our place within it. So what are you waiting for? Start teaching yourself aerospace engineering [2] today!
-
-
+I've made a really good learning guide for anyone who likes spacecraft and rockets. Studying these can be really interesting and fun. You might even end up working in the aerospace industry. But even if you don't want to work in this field, knowing about spacecraft and rockets can help you understand more about the universe. So why wait? Start learning about aerospace engineering today!
 
 Notes:
 
+[1] If you love space like I do and want to know more about how small satellites are made or how rocket engines work, check out this guide! It has lots of information on these topics and I always add new things to it.
 
-[1] If you're like me (space enthusiast) and you're interested in small satellites development or liquid rocket engine design philosophy as well as its combustion dynamics then please consider exploring this resource! It has a wealth of information on both subjects, and it's constantly being updated with new content.
-
-[2] Aerospace engineering is the primary field of engineering concerned with the design, development, testing and production of aircraft, spacecraft, and rockets. It has two major branches: aeronautical engineering and astronautical engineering. Aeronautical engineers primarily focus on aircraft while astronautical engineers focus on spacecraft and rockets.
+[2] Aerospace engineering is all about making aircraft, spacecraft, and rockets. It has two main parts: aeronautical engineering (which focuses on aircraft) and astronautical engineering (which focuses on spacecraft and rockets).
 
 
 ***
