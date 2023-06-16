@@ -1,7 +1,7 @@
 ---
 title: Emerging Risks to Space Systems - A Space Cyber Primer
 publish_date: 2022-04-06 
-published: The safety of space systems is under threat as we use satellites more for things like communication and navigation. Cyber attacks on these systems are a big worry. For instance, the recent attack on Viasat’s satellite service by hackers linked to Russia shows how vulnerable these systems can be.
+published: "The safety of space systems is under threat as we use satellites more for things like communication and navigation. Cyber attacks on these systems are a big worry. For instance, the recent attack on Viasat’s satellite service by hackers linked to Russia shows how vulnerable these systems can be."
 ---
 
 ## Quote
