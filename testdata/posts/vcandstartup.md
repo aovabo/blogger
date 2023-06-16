@@ -25,7 +25,7 @@ The best ideas undergo an iterative product development process, with our sights
 
 I also keep up-to-date with scientific research, articles, and patents that are related to what we do at Ovabor Labs. I keep an eye on market trends, competition, and important changes in the industry. I work to connect with important people, competitors, and experts, and I make investment plans based on our research.
 
-For each project, I look at the key scientific and technical risks. I also identify who could be competitors or partners for the project. I check the project's R&D plan and business strategy, and help prepare notes for internal investment meetings, which includes making pitch decks. My work helps drive Ovabor Labs forward in the tech business world.
+For each project, I look at the key scientific and technical risks. I also identify who could be competitors or partners for the project. I check the project's R&D plan and business strategy, and help prepare notes for internal investment meetings, which includes making pitch decks.
 
 
 ## Blockquote
