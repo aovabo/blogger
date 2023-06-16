@@ -10,9 +10,16 @@ I've made a really good learning guide for anyone who likes spacecraft and rocke
 
 Notes:
 
-[1] If you love space like I do and want to know more about how small satellites are made or how rocket engines work, check out this guide! It has lots of information on these topics and I always add new things to it.
+If you love space like I do and want to know more about how small satellites are made or how rocket engines work, check out this guide! It has lots of information on these topics and I always add new things to it.
 
-[2] Aerospace engineering is all about making aircraft, spacecraft, and rockets. It has two main parts: aeronautical engineering (which focuses on aircraft) and astronautical engineering (which focuses on spacecraft and rockets).
+Aerospace engineering is all about making aircraft, spacecraft, and rockets. It has two main parts: aeronautical engineering (which focuses on aircraft) and astronautical engineering (which focuses on spacecraft and rockets).
+
+
+
+## Quote
+
+> “For the pursuit of knowledge in near-space, space, and beyond.” - CSI
+
 
 
 ***
@@ -174,26 +181,3 @@ Free astronomy classes by Professor James Schombert.
 - [**Birth and Death of Stars**](http://abyss.uoregon.edu/~js/ast122/)
 - [**Galaxies and the Expanding Universe**](http://abyss.uoregon.edu/~js/ast123/)
 - [**Cosmology**](http://abyss.uoregon.edu/~js/cosmo/)
-
-
-***
-
-## Code
-
-```
-$ Okay, Houston,
-$ Here you can study open-source aerospace engineering materials curated by Alexander.
-```
-
-***
-
-## Link
-
-[**`GitHub`**](https://github.com/robavospace)
-
-
-***
-
-## Blockquote
-
-> “For the pursuit of knowledge in near-space, space, and beyond.” - CSI
