@@ -2,7 +2,7 @@ import blog from "../blog.tsx";
 
 blog({
   author: "Xela-Robavo",
-  title: "Ovabor's Innovation Orchard",
+  title: "Ovabo's Innovation Orchard",
   description: "Chronicles of my experimental and passion project.",
   avatar: "https://deno-avatar.deno.dev/avatar/blog.svg",
   avatarClass: "rounded-full",
