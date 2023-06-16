@@ -21,8 +21,6 @@ In addition to hardware and education, Robavo Space ventures into data analytics
 
 By facilitating access to affordable space technology, fostering self-reliance in spacecraft and launch vehicle design, developing space education, and offering analytics services, Robavo Space presents a comprehensive solution to the current challenges in the African space industry. Further research should explore the potential impacts and scalability of such a transformative approach within the rapidly evolving African space sector.
 
-<img src="first/rspacet.png"/>
-
 
 ## Introduction
 The motivation for Robavo Space arose from the identified gaps in the African space industry and a case study of Nigeria's space program. Despite the billion-dollar investment in space research and development, Nigeria's program lacks robust satellite or launch vehicle manufacturing capability, relying heavily on foreign-built satellites and launch services. This scenario reflects the common reality for many African nations, emphasizing the urgent need for a shift towards self-reliance in the space sector. More specifically, nations like China, Russia, and the United States predominantly offer their expertise and resources, ultimately stifling Africa's indigenous growth in the space sector. 
@@ -31,6 +29,10 @@ Robavo Space, with its array of comprehensive solutions, promises to reshape Afr
 
 
 
-<img src="first/rspaceo.png"/>
+<img src="first/rspace1.png"/>
+
+<img src="first/rspace2.png"/>
+
+<img src="first/rspace3.png"/>
 
 
