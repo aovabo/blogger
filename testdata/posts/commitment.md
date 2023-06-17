@@ -1,3 +1,8 @@
+---
+title: AfriComply - Championing Privacy Compliance and Cloud Data Security in Africa
+publish_date: 2023-05-02
+abstract: "In the evolving digital landscape, the twin challenges of privacy compliance and data security have taken center stage. Data, often hailed as the new oil, powers organizations' operations, driving the need for robust mechanisms to secure it and comply with the increasing complexity of data protection laws. This paper presents AfriComply, a new project aiming to revolutionize privacy compliance and data security in Africa, and the journey of its founder in creating this comprehensive solution. It offers a segmented analysis of AfriComply's approach towards these challenges and the opportunities it presents."
+---
 
 
 <img src="second/flower.jpeg"/>
