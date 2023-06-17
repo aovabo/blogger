@@ -1,4 +1,7 @@
 
+
+<img src="second/flower.jpeg"/>
+
 ## Introduction
 
 Love has a profound way of shaping our lives. It can lead us down paths we never anticipated, challenge us in ways we never expected, and transform us in ways we never imagined. My first journey down this winding path of love was anything but conventional.
