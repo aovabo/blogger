@@ -20,6 +20,7 @@ And for a while, it felt like we might succeed. Like any couple, we had our disa
 **Then, the storm hit.**
 
 ## The Heartbreak
+Slowly, and then all at once, the veneer started to chip away
 
 ## The Aftermath
 
