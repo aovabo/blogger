@@ -1,6 +1,7 @@
 ---
 title: First Love, First Heartbreak - A Journey Through My Unconventional Marriage
 published_at: 2023-06-17
+abstract: "I share my unique journey from never having dated to entering an unconventional marriage born out of necessity. As my first experience with love and commitment, I found myself navigating the painful terrain of betrayal and gaslighting." 
 ---
 
 
