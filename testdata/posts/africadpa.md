@@ -201,6 +201,16 @@ Beyond national legislation, Africa also has a single continental data protectio
 ## Case Studies: Examining the Data Protection Laws in Congo Republic, Rwanda, Mauritania, Zambia, and Nigeria
 This section presents a selection of case studies from the Congo Republic, Rwanda, Mauritania, Zambia, and Nigeria, showcasing the diverse range of data protection laws adopted by these nations. Through these case studies, we delve into the intricate legal complexities underpinning Africa's data protection regulations, highlighting the region's diversity and mirroring the distinct timeframes within which these laws were enacted
 
+- **Congo Republic**
+
+- **Rwanda**
+
+- **Mauritania**
+
+- **Zambia**
+
+- **Nigeria**
+
 
 ## The Malabo Convention: A Vision of Unified African Data and Privacy Protection
 The African Union (AU) launched a series of deliberations concerning the regulation of data protection, cybersecurity, cybercrime, and electronic transactions dating back to the 1990s. This discourse took a more formal shape in 2009 during the Extra-Ordinary Conference of African Union Ministers responsible for Communication and Information Technologies held in South Africa. As a result, the Convention on Cybersecurity and Personal Data Protection 2014 was birthed, adopted by 55 Heads of State and Government in Malabo, Equatorial Guinea.
