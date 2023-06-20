@@ -201,15 +201,17 @@ Beyond national legislation, Africa also has a single continental data protectio
 ## Case Studies: Examining the Data Protection Laws in Congo Republic, Rwanda, Mauritania, Zambia, and Nigeria
 This section presents a selection of case studies from the Congo Republic, Rwanda, Mauritania, Zambia, and Nigeria, showcasing the diverse range of data protection laws adopted by these nations. Through these case studies, we delve into the intricate legal complexities underpinning Africa's data protection regulations, highlighting the region's diversity and mirroring the distinct timeframes within which these laws were enacted
 
-- **Congo Republic**
-
 - **Rwanda**
+Law No. 058/2021 Relating to the Protection of Personal Data and Privacy 
 
 - **Mauritania**
+Law No. 2017-020
 
 - **Zambia**
+Data Protection Act No. 3 of 2021
 
 - **Nigeria**
+Data Protection Act 2023
 
 
 ## The Malabo Convention: A Vision of Unified African Data and Privacy Protection
