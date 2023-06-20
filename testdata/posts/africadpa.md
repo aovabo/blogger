@@ -138,7 +138,7 @@ Beyond national legislation, Africa also has a single continental data protectio
 
 | Country  | National Data Protection Law | Year of Enactment | Data Protection Law Name           | Data Protection Authority Appointed |
 |------------| ------------------------------|--------------------|--------------------------------------|-------------------------------------|
-| Algeria | Law Nr 18-07 | June 10, 2018 | Yes | June 10, 2018 | Law No. 18-07 | - | Yes |
+| Algeria | Yes | June 10, 2018 | Law No. 18-07 | - | Yes |
 | Angola | Law No. 22/11 | June 17, 2011 | Yes | June 17, 2011 | Data Protection Law (Law No. 22/11) | Ratified (11 May 2020) | Yes |
 | Benin | Law No. 2009-09 | May 22, 2009 | Yes | 2017 | Law No. 2009-09 and Book V of the 2017 Digital Code of the Republic of Benin | Signed | Yes |
 | Botswana | Data Protection Act 2018 | April 20, 2004 | Yes | August 3, 2018 | Data Protection Act 2018 | - | Yes |
