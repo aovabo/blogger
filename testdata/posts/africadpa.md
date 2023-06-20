@@ -156,8 +156,8 @@ Beyond national legislation, Africa also has a single continental data protectio
 | Democratic Republic of Congo | No | - | - | - |
 | Egypt | Yes | October 15, 2020 | Data Protection Law Resolution No. 151 of 2020 |  No | 
 | Equatorial Guinea | Yes | July 2016 | Personal Data Protection Law No. 1/2016 | - |
-| Eritrea | No | Article 18 | No | - | - | - |
-| Eswatini | No | Article 14 | No | - | - | - |
+| Eritrea | No | - | No | - | - | - |
+| Eswatini | No | - | No | - | - | - |
 | Ethiopia | Yes | 2019 | Proclamation No. 1170/2019 on the Protection of Personal Data | - |
 | Gabon | Yes | September 25, 2011, 2019 | Law No. 001/2011, Law No. 025/2019 on the Protection of Personal Data | Yes |
 | Gambia | Yes | 2013 | Data Protection Act, 2013 | - |
