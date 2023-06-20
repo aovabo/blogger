@@ -300,3 +300,5 @@ The sheer complexity organizations of all sizes face in managing consumer data a
 **Machine Learning & Artificial Intelligence** 
 
 ![code](https://github.com/aovabo/ValidatorGPT/assets/45472105/c566c0a5-9b3f-4da9-906f-a5b657db6756)
+![Screenshot 2023-06-20 at 1 16 01 AM](https://github.com/aovabo/ValidatorGPT/assets/45472105/3e9a387a-baa2-46c6-b639-641021deac38)
+
