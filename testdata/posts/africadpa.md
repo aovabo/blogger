@@ -156,8 +156,8 @@ Beyond national legislation, Africa also has a single continental data protectio
 | Democratic Republic of Congo | Central Africa | Article 31 | No | - | - | - |
 | Egypt | Yes | October 15, 2020 | Data Protection Law Resolution No. 151 of 2020 |  No | 
 | Equatorial Guinea | Yes | July 2016 | Personal Data Protection Law No. 1/2016 | - |
-| Eritrea | Eastern Africa | Article 18 | No | - | - | - |
-| Eswatini | Southern Africa | Article 14 | No | - | - | - |
+| Eritrea | No | Article 18 | No | - | - | - |
+| Eswatini | No | Article 14 | No | - | - | - |
 | Ethiopia | Yes | 2019 | Proclamation No. 1170/2019 on the Protection of Personal Data | - |
 | Gabon | Yes | September 25, 2011, 2019 | Law No. 001/2011, Law No. 025/2019 on the Protection of Personal Data | Yes |
 | Gambia | Yes | 2013 | Data Protection Act, 2013 | - |
@@ -179,15 +179,15 @@ Beyond national legislation, Africa also has a single continental data protectio
 | Niger | Yes | May 3, 2017 | Law No. 2017-28 | Yes |
 | Nigeria | Yes | January 25, 2019, June 14, 2023  | Data Protection Regulation (NDPR), Data Protection Act 2023 | Yes |
 | Rwanda | Yes | June 18, 2016 | Information and Communication Technology Law No. 24/2016 | Yes |
-| Sahrawi Arab Democratic Republic | Northern Africa | No explicit provision | No | - | - | - |
+| Sahrawi Arab Democratic Republic | No | - | - |
 | São Tomé and Príncipe | Yes | 2018 | Personal Data Protection Law (Law No. 6/2018) | - | | 
 | Senegal | Yes | January 25, 2008 | Law No. 2008-12 on the Protection of Personal Data | Yes |
 | Seychelles | Yes | 2003 | Data Protection Act, 2003 | Yes |
 | Sierra Leone | Yes | 2019 | Data Protection Act, 2019 | - |
-| Somalia | Eastern Africa | Article 19 | No | - | - | - |
+| Somalia | No | - | - | - |
 | South Africa | Yes | November 19, 2013 | Protection of Personal Information Act, 2013 (POPIA) | Yes |
-| South Sudan | Eastern Africa | Article 22 and 32 | No | - | - | - |
-| Sudan | Northern Africa | Section 55 | No | - | - | | 
+| South Sudan | No | - | - | - |
+| Sudan | No | - | - | - | - |
 | Tanzania | Yes | 2019 | The Data Protection Act, 2019 | Yes |
 | Togo | Yes | October 29, 2019 | Law No. 2009-013 on the Protection of Personal Data | Yes |
 | Tunisia | Yes | July 27, 2004 | Organic Law No. 2004-63 on the Protection of Personal Data | Yes | 
