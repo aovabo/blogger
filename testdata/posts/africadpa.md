@@ -162,12 +162,12 @@ Beyond national legislation, Africa also has a single continental data protectio
 | Gabon | Yes | September 25, 2011, 2019 | Law No. 001/2011, Law No. 025/2019 on the Protection of Personal Data | Yes |
 | Gambia | Yes | 2013 | Data Protection Act, 2013 | Signed |
 | Ghana | Yes | October 16, 2012 | Data Protection Act of 2012 (Act 843) | Yes |
-| Guinea | Yes | 2021 | Law No. 2011/002 on the Protection of Personal Data | Ratified (16 October 2018) |
-| Guinea-Bissau | Western Africa | Articles 34A and 38 | No | - | - | Signed | | 
+| Guinea | Yes | 2021 | Law No. 2011/002 on the Protection of Personal  | - |
+| Guinea-Bissau | No | - | - | - |
 | Kenya | Yes | November 8, 2019| Data Protection Act No. 24 of 2019 | Yes |
 | Lesotho | Yes | 2013 | Data Protection Act 2013 | Yes |
 | Liberia | Yes | 2019 | Data Protection Act, 2019 | Signed |
-| Libya | Northern Africa | Articles 12 and 13 | No | - | - | - |
+| Libya | No | - | - | - |
 | Madagascar | Yes | 2014 | Law No. 2014-038 | Yes | 
 | Malawi | Yes | 2018 | Data Protection Act, 2018 | Ratified |
 | Mali | Yes | May 21, 2013, 2021 | Law No. 2013/015, Law No. 2018-022 on the Protection of Personal Data | Ratified |
