@@ -138,20 +138,20 @@ Beyond national legislation, Africa also has a single continental data protectio
 
 | Country  | National Data Protection Law | Year of Enactment | Data Protection Law Name           | Data Protection Authority Appointed |
 |------------| ------------------------------|--------------------|--------------------------------------|-------------------------------------|
-| Algeria | Yes | June 10, 2018 | Law No. 18-07 | - | Yes |
-| Angola | Yes | June 17, 2011 | Data Protection Law (Law No. 22/11) | Ratified (11 May 2020) | Yes |
-| Benin | Yes | May 22, 2009, 2017 | Law No. 2009-09 and Book V of the 2017 Digital Code of the Republic of Benin | Yes |
+| Algeria | Yes | June 10, 2018 | Law No. 18-07 on the protection of individuals in the processing of personal information | Yes |
+| Angola | Yes | June 17, 2011 | Data Protection Law (Law No. 22/11) | Yes |
+| Benin | Yes | May 22, 2009, 2017 | Law No. 2009-09: Dealing with the Protection of Personally Identifiable Information (PII) and Book V of the 2017 Digital Code of the Republic of Benin: Protection of Personal Data | Yes |
 | Botswana |  Yes | August 03, 2018 | Data Protection Act 2018 | Yes |
-| Burkina Faso | Yes | April 20, 2004, 2021 | Law N°010- 2004/AN and Law No. 001-2021 | Yes |
-| Burundi | Eastern Africa | Articles 28 and 42 | No | - | - | - | - |
-| Cameroon | Central Africa | Preamble | No | -| - | Signed | Yes |
-| Cape Verde | Yes | January 22, 2001| Law No. 133-V-2001 and Law No. 41 and 42 2013  | Ratified (5 February 2022) | Yes |
-| Central African Republic (CAR) | Central Africa | Article 16 | No | - | - | - | No |
-| Chad | Yes | February 10, 2015 |  Law No. 007/PR/2015 and Law No. 006/PR/2015 | Yes |
-| Comoros | Eastern Africa | Article 27 | No | - | - | Signed | - |
+| Burkina Faso | Yes | April 20, 2004, March 30, 2021 | Law N°010- 2004/AN and Law No. 001-2021 | Yes |
+| Burundi | No | - | - | - |
+| Cameroon | No | - | - | -| 
+| Cape Verde | Yes | January 22, 2001, 2013| Law No. 133-V-2001 and Law No. 41 and 42 2013 | Yes |
+| Central African Republic (CAR) | No | - | No | 
+| Chad | Yes | February 10, 2015 |  Law No. 007/PR/2015 on the Protection of Personal Data and Law No. 006/PR/2015 | Yes |
+| Comoros | No | - | - | - |
 | Côte d'Ivoire | Yes | June 19, 2013 | Law No. 2013-450 |  Yes | 
 | Congo | Yes | 2019 |  Law No. 29-2019  | Ratified (23 October 2020)  | Yes | - |
-| Djibouti | Eastern Africa | Article 13 | No | - | - | Signed | No | 
+| Djibouti | No| - | - | - | Yes | 
 | Democratic Republic of Congo | Central Africa | Article 31 | No | - | - | - |
 | Egypt | Yes | October 15, 2020 | Data Protection Law Resolution No. 151 of 2020 |  No | 
 | Equatorial Guinea | Yes | July 2016 | Personal Data Protection Law No. 1/2016 | - |
