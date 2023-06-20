@@ -298,3 +298,5 @@ Presently, the most widely used tools for privacy management in Africa are EComp
 The sheer complexity organizations of all sizes face in managing consumer data across several industry verticals is driving the need for scalable, efficient, technological solutions. As a result, organizations are increasing their compliance and risk-assessment budgets. The continued adoption of consumer privacy regulations at the continental, regional, and national levels around Africa will undoubtedly propel the need for privacy technology solutions and tools.
 
 **Machine Learning & Artificial Intelligence** 
+
+![code](https://github.com/aovabo/ValidatorGPT/assets/45472105/c566c0a5-9b3f-4da9-906f-a5b657db6756)
