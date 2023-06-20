@@ -138,16 +138,16 @@ Beyond national legislation, Africa also has a single continental data protectio
 
 | Country  | National Data Protection Law | Year of Enactment | Data Protection Law Name           | Data Protection Authority Appointed |
 |------------| ------------------------------|--------------------|--------------------------------------|-------------------------------------|
-| Algeria | Northern Africa | Article 47 | Yes | June 10, 2018 | Law No. 18-07 | - | Yes |
-| Angola | Southern Africa | Article 32 | Yes | June 17, 2011 | Data Protection Law (Law No. 22/11) | Ratified (11 May 2020) | Yes |
-| Benin | Western Africa | Article 21 | Yes | 2017 | Law No. 2009-09 and Book V of the 2017 Digital Code of the Republic of Benin | Signed | Yes |
-| Botswana | Southern Africa | Articles 3 and 9 | Yes | August 3, 2018 | Data Protection Act 2018 | - | Yes |
-| Burkina Faso | Western Africa | 1991 Constitution | Yes | 2004 | Law N°010- 2004/AN and Law No. 001-2021 | - | Yes |
+| Algeria | Law Nr 18-07 | June 10, 2018 | Yes | June 10, 2018 | Law No. 18-07 | - | Yes |
+| Angola | Law No. 22/11 | June 17, 2011 | Yes | June 17, 2011 | Data Protection Law (Law No. 22/11) | Ratified (11 May 2020) | Yes |
+| Benin | Law No. 2009-09 | May 22, 2009 | Yes | 2017 | Law No. 2009-09 and Book V of the 2017 Digital Code of the Republic of Benin | Signed | Yes |
+| Botswana | Data Protection Act 2018 | April 20, 2004 | Yes | August 3, 2018 | Data Protection Act 2018 | - | Yes |
+| Burkina Faso | Law No. 010-2004/AN | January 22, 2001 | Yes | 2004 | Law N°010- 2004/AN and Law No. 001-2021 | - | Yes |
 | Burundi | Eastern Africa | Articles 28 and 42 | No | - | - | - | - |
 | Cameroon | Central Africa | Preamble | No | -| - | Signed | Yes |
-| Cape Verde | Western Africa | Constitutional right of habeas data | Yes | January 22, 2001| Law No. 133-V-2001 and Law No. 41 and 42 2013  | Ratified (5 February 2022) | Yes |
+| Cape Verde | Law 133/V/2001 | January 22, 2001 | Yes | January 22, 2001| Law No. 133-V-2001 and Law No. 41 and 42 2013  | Ratified (5 February 2022) | Yes |
 | Central African Republic (CAR) | Central Africa | Article 16 | No | - | - | - | No |
-| Chad | Central Africa | Articles 17 and 49 | Yes | February 10, 2015 |  Law No. 007/PR/2015 and Law No. 006/PR/2015 | Signed | Yes |
+| Chad | Law No. 007/PR/2015 | February 10, 2015 | Yes | February 10, 2015 |  Law No. 007/PR/2015 and Law No. 006/PR/2015 | Signed | Yes |
 | Comoros | Eastern Africa | Article 27 | No | - | - | Signed | - |
 | Côte d'Ivoire | Western Africa | Article 8 | Yes | June 19, 2013 | Law No. 2013-450 | Ratified (3 April 2023) | Yes | 
 | Congo | Central Africa | Article 26 | Yes | 2019 |  Law No. 29-2019  | Ratified (23 October 2020)  | Yes | - |
