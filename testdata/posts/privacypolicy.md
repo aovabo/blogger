@@ -1,7 +1,7 @@
 ---
 title: AfriComply Privacy Policy version 1.0
 publish_date: 2023-06-23
-abstract: This is the privacy policy (“Privacy Policy”) that governs how we, AfriComply, a Ovabor Development Labs Limited project. (“AfriComply”, “we”, “our” or “us”), use Personal Information (defined below) that we collect, receive and store about individuals including in connection with the use of the website https://privacheck.africomply.com (“Website”) and during our ordinary course of business. 
+abstract: This is the privacy policy (“Privacy Policy”) that governs how we, AfriComply, a Ovabor Development Labs Limited project. (“AfriComply”, “we”, “our” or “us”), use Personal Information (defined below) that we collect, receive and store about individuals including in connection with the use of the [website](https://privacheck.africomply.com) (“Website”) and during our ordinary course of business. 
 ---
 
 ## Introduction
