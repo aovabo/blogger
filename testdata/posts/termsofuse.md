@@ -1,5 +1,5 @@
 ---
-title: AfriComply Terms of Use version 1.0
+title: AfriComply Terms of Use
 publish_date: 2023-06-23
 abstract: The Terms of Use govern the access and use of AfriComply's Services, which help manage your personal data in compliance with the Nigeria Data Protection Act. By using our Services, you affirm that you are at least 18 years old and agree to abide by these terms. Violations or disagreements with these terms can result in the termination of your usage license. 
 ---
