@@ -34,3 +34,7 @@ We'll keep your personal data as long as you use our services. If you decide to 
 
 ## Security
 We take data security seriously. We have physical, technical, and administrative security measures in place that meet industry standards and are designed to prevent unauthorized access, use, or loss of your personal data.
+
+## Google Data Usage
+
+Please note that when you use our app, we use Google data for authentication purposes and to identify companies holding your data. The data used includes email subject lines and metadata. We do not read your emails. 
