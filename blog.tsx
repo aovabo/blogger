@@ -282,6 +282,7 @@ async function loadPost(postsDirectory: string, path: string) {
     allowIframes: data.get("allow_iframes"),
     disableHtmlSanitization: data.get("disable_html_sanitization"),
     readTime: readingTime(content),
+    renderMath: data.get("render_math"),
   };
   POSTS.set(pathname, post);
 }
@@ -332,6 +333,10 @@ export async function handler(
     ],
   };
 
+  const sharedMetaTags = {
+    "theme-color": blogState.theme === "dark" ? "#000" : null,
+  };
+
   if (typeof blogState.favicon === "string") {
     sharedHtmlOptions.links?.push({
       href: blogState.favicon,
@@ -363,6 +368,7 @@ export async function handler(
       ...sharedHtmlOptions,
       title: blogState.title ?? "My Blog",
       meta: {
+        ...sharedMetaTags,
         "description": blogState.description,
         "og:title": blogState.title,
         "og:description": blogState.description,
@@ -396,6 +402,7 @@ export async function handler(
       ...sharedHtmlOptions,
       title: post.title,
       meta: {
+        ...sharedMetaTags,
         "description": post.snippet,
         "og:title": post.title,
         "og:description": post.snippet,
@@ -409,6 +416,7 @@ export async function handler(
         gfm.CSS,
         `.markdown-body { --color-canvas-default: transparent !important; --color-canvas-subtle: #edf0f2; --color-border-muted: rgba(128,128,128,0.2); } .markdown-body img + p { margin-top: 16px; }`,
         ...(blogState.style ? [blogState.style] : []),
+        ...(post.renderMath ? [gfm.KATEX_CSS] : []),
       ],
       body: <PostPage post={post} state={blogState} />,
     });
@@ -455,7 +463,7 @@ function serveRSS(
 
   for (const [_key, post] of posts.entries()) {
     const item: FeedItem = {
-      id: `${origin}/${post.title}`,
+      id: `${origin}${post.pathname}`,
       title: post.title,
       description: post.snippet,
       date: post.publishDate,
