@@ -1,8 +1,8 @@
 ---
-title: Understanding and Complying with Nigeria's New Data Protection Act - A Guide for Businesses
+title: Understanding and Complying with Nigeria's New Data Protection Act 2023 - A Guide for Businesses
 publish_date: 2023-06-12 
 readtime:
-abstract: This paper provides a comprehensive analysis of data privacy laws in Africa, focusing on the impact of key legal frameworks such as the Council of Europe Convention 108, Directive No. 95/46/EC, and the General Data Protection Regulation (GDPR) on most African privacy laws. It explores the harmonization efforts within the African Union Convention on Cyber Security and Personal Data Protection (The Malabo Convention 2014) and discusses the benefits, challenges, and prospects of unified data privacy laws.
+abstract: This article provides an essential overview of Nigeria's new data privacy law and its impact on businesses. It clarifies the Act's key principles and individuals' rights, as well as what constitutes personal data under the legislation. Additionally, the guide emphasizes the potential fines for non-compliance and the importance of respecting data privacy for both legal and ethical reasons. If your business interacts with Nigerian residents in any capacity, this article is a must-read to ensure you understand your obligations under the new law.
 ---
 
 <img src="first/spacesec.jpeg"/>
