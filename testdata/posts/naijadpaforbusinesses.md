@@ -5,10 +5,10 @@ readtime:
 abstract: This post provides an essential overview of Nigeria's new data privacy law and its impact on businesses. It clarifies the Act's key principles and individuals' rights, as well as what constitutes personal data under the legislation. Additionally, the guide emphasizes the potential fines for non-compliance and the importance of respecting data privacy for both legal and ethical reasons. If your business interacts with Nigerian residents in any capacity, this article is a must-read to ensure you understand your obligations under the new law.
 ---
 
-<img src="first/spacesec.jpeg"/>
+
 
 ## Introduction
-As developers, security and privacy engineers, we are keenly aware of the significance of data privacy in the digital age, and are dedicated to aiding businesses in navigating the newly enacted Nigerian Data Protection Act 2023. This revolutionary legislation reflects the Nigerian government's commitment to protect personal data and bring its laws into the international data protection landscape.
+As developers and security/privacy engineers, we are keenly aware of the significance of data privacy in the digital age, and are dedicated to aiding businesses in navigating the newly enacted Nigerian Data Protection Act 2023. This revolutionary legislation reflects the Nigerian government's commitment to protect personal data and bring its laws into the international data protection landscape.
 
 In this blog post, we'll provide an overview of some of the key areas of the Act, and explain what Nigerian companies need to do to ensure compliance.
 
