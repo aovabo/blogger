@@ -25,11 +25,8 @@ For consumers, these changes have led to a hike in the cost of goods and service
 
 For businesses, these challenges translate to increased costs, reduced demand, stymied investments, and disruptions in supply chains. The overall economic environment is further strained by fluctuations in the foreign exchange rate, which stood at ₦806 naira to a $1 dollar, and the increase in fuel prices to ₦617 per liter as of July 18, 2023.
 <img src="second/oil.png"/>
+<img src="second/fx.png"/>
 
 
-## Inflation: A Silent Economic Saboteur
-One direct fallout of these policy changes is an inflation rate of 22.79​​ percent as of June 2023. Inflation, the rate at which prices for goods and services increase, affects various facets of the economy. It impacts individual spending power and can affect the interest on the national debt. The rate at which prices change can have wide-ranging consequences across the economy. When inflation rises, the value of money erodes, and this can result in wage devaluation, increased living costs, and reduced purchasing power.
-
-Additionally, inflation can lead to increased costs for businesses, resulting in higher prices for consumers, reduced employment and growth, negative foreign exchange effects, and stymied investments. For instance, on July 18, 2023, fuel prices increased to N617 per liter, while the exchange rate hit ₦806 naira to a $1 dollar, impacting the cost of raw materials and causing supply-chain disruptions.
 
 
