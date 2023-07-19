@@ -13,16 +13,13 @@ In his inauguration speech on May 29, 2023, the president announced the removal 
  <img src="second/rv.png"/>
 
 Concurrently, the Central Bank of Nigeria (CBN) announced operational changes to the foreign exchange market on June 14, 2023. This change authorized commercial banks to sell foreign exchange freely at market-determined rates.
- <img src="second/fx.png"/>
+ <img src="second/cbn.png"/>
+
+These changes, combined with the ongoing debt servicing, have led to a significant rise in the cost of goods and services. Transportation has become costly, food prices have soared, and even the cost of fuel for generators - a crucial commodity for businesses and households due to unstable electricity supply - has increased significantly.
+
+## Inflation: A Silent Economic Saboteur
+One direct fallout of these policy changes is an inflation rate of 22.79​​ percent as of June 2023. Inflation, the rate at which prices for goods and services increase, affects various facets of the economy. It impacts individual spending power and can affect the interest on the national debt. The rate at which prices change can have wide-ranging consequences across the economy. When inflation rises, the value of money erodes, and this can result in wage devaluation, increased living costs, and reduced purchasing power.
+
+Additionally, inflation can lead to increased costs for businesses, resulting in higher prices for consumers, reduced employment and growth, negative foreign exchange effects, and stymied investments. For instance, on July 18, 2023, fuel prices increased to N617 per liter, while the exchange rate hit 806 naira to a dollar, impacting the cost of raw materials and causing supply-chain disruptions.
 
 
-
-
-
-This announcement was a decisive response to the government's budgetary constraint, as the cash crunch could worsen if subsidy payments were to continue. Concurrently, the Central Bank of Nigeria (CBN) authorized commercial banks to sell foreign exchange freely at market-determined rates.
-
-These changes, combined with the ongoing debt servicing, have led to a significant rise in the cost of goods and services. Transportation has become expensive, food prices have soared, and the cost of fuel for generators - a necessity due to Nigeria's unstable electricity supply - has spiked significantly.
-
-To give some context, the fuel subsidy removal policy went into effect on July 1, 2023, and the CBN announced operational changes to the foreign exchange market on June 14, 2023. The government of the immediate past President, Muhammadu Buhari, only provided budgetary allocation for petrol subsidy until June 30, 2023, after saying it would leave the incoming administration to make a final decision on the matter.
-
-This leaves the new administration grappling with the repercussions of the previous government's economic decisions while trying to steer the country towards fiscal stability and growth.
