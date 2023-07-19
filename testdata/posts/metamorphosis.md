@@ -10,7 +10,7 @@ Over the past few months, Nigeria has been experiencing some significant policy 
 
 ## Fiscal and Monetary Policy Shifts: Impacts and Ramifications
 In his inauguration speech on May 29, 2023, the president announced the removal of the fuel subsidy policy. The immediate past president only provided budgetary allocation for petrol subsidy until June 30, 2023, leaving the incoming administration to make the final decision. The fuel subsidy removal policy went into effect on July 1, 2023. 
- <img src="second/oil.png"/>
+ <img src="second/rv.png"/>
 
 
 
