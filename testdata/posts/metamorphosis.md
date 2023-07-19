@@ -6,5 +6,4 @@ abstract: In the wake of soaring fuel prices, intensifying inflation, and a fluc
 
 ## Introduction
 Over the past few months, Nigeria has been experiencing some significant policy changes. The new president, who took office on May 29, 2023, inherited a challenging economic situation. The previous administration left a staggering debt of N49.85 trillion ($108.30 billion) to local and foreign creditors. Consequently, 96 percent of the government's revenue is now being used to service this debt. With fears of an escalating cash crunch if subsidy payments continued, the new administration has implemented substantial fiscal and monetary policy shifts that are currently shaping the nation's economic landscape.
-
-<img src="second/dmo.png"/>
+  <img src="second/dmo.png"/>
