@@ -6,7 +6,6 @@ abstract: In the wake of soaring fuel prices, intensifying inflation, and a fluc
 
 ## Introduction
 Over the past few months, Nigeria has been experiencing some significant policy changes, which have had profound impacts on the economy. These changes began when the new president took office on May 29, 2023. His administration implemented new fiscal and monetary policies which are altering the economic landscape of the country. From the removal of fuel subsidy to the authorization given by the Central Bank of Nigeria (CBN) for commercial banks to sell foreign exchange freely at market-determined rates. This has presented both challenges and opportunities within the economic landscape, the effects of which are rippling throughout the nation across various sectors.
-  <img src="second/bbc.png"/>
 
 ## Setting the Stage: Economic Challenges
 The backdrop to this momentous policy shift is an economic legacy left by the immediate past President, whose administration only provided budgetary allocation for petrol subsidy until June 30, 2023, leaving the incoming administration to make the final decision. The adminstration also left a staggering debt of ₦49.85 trillion ($108.30 billion) to local and foreign creditors. Consequently, 96 percent of government revenue goes towards servicing this debt, raising fears of a more severe cash crunch if subsidy payments were to continue. It is against this backdrop that the fuel subsidy removal was announced, creating a ripple of immediate and palpable effects on the populace.
