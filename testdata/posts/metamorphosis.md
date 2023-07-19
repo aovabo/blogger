@@ -12,7 +12,8 @@ Over the past few months, Nigeria has been experiencing some significant policy 
 In his inauguration speech on May 29, 2023, the president announced the removal of the fuel subsidy policy. The immediate past president only provided budgetary allocation for petrol subsidy until June 30, 2023, leaving the incoming administration to make the final decision. The fuel subsidy removal policy went into effect on July 1, 2023. 
  <img src="second/rv.png"/>
 
-
+Concurrently, the Central Bank of Nigeria (CBN) announced operational changes to the foreign exchange market on June 14, 2023. This change authorized commercial banks to sell foreign exchange freely at market-determined rates.
+ <img src="second/fx.png"/>
 
 
 
