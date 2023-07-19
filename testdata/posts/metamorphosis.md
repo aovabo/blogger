@@ -5,8 +5,16 @@ abstract: In the wake of soaring fuel prices, intensifying inflation, and a fluc
 ---
 
 ## Introduction
-Over the past few months, Nigeria has been experiencing some significant policy changes. The new president, who took office on May 29, 2023, inherited a challenging economic situation. The previous administration left a staggering debt of N49.85 trillion ($108.30 billion) to local and foreign creditors. Consequently, 96 percent of the government's revenue is now being used to service this debt. With fears of an escalating cash crunch if subsidy payments continued, the new administration has implemented substantial fiscal and monetary policy shifts that are currently shaping the nation's economic landscape.  From the removal of fuel subsidy to the authorization given by the Central Bank of Nigeria (CBN) for commercial banks to sell foreign exchange freely at market-determined rates, the effects of these policies are palpable across various sectors.
+Over the past few months, Nigeria has been experiencing some significant policy changes, which have had profound impacts on the economy. These changes began when the new president took office on May 29, 2023. His administration implemented new fiscal and monetary policies which are altering the economic landscape of the country. From the removal of fuel subsidy to the authorization given by the Central Bank of Nigeria (CBN) for commercial banks to sell foreign exchange freely at market-determined rates. This has presented both challenges and opportunities within the economic landscape, the effects of which are rippling throughout the nation across various sectors.
+
+
+
   <img src="second/dmo.png"/>
+
+## Setting the Stage: Economic Challenges
+The backdrop to this momentous policy shift is an economic legacy left by the immediate past President, whose administration left a staggering debt of ₦49.85 trillion ($108.30 billion) to local and foreign creditors. Consequently, 96 percent of government revenue goes towards servicing this debt, raising fears of a more severe cash crunch if subsidy payments were to continue. It is against this backdrop that the fuel subsidy removal was announced, creating a ripple of immediate and palpable effects on the populace.
+ <img src="second/dmo.png"/>
+
 
 ## Fiscal and Monetary Policy Shifts: Impacts and Ramifications
 In his inauguration speech on May 29, 2023, the president announced the removal of the fuel subsidy policy. The immediate past president only provided budgetary allocation for petrol subsidy until June 30, 2023, leaving the incoming administration to make the final decision. The fuel subsidy removal policy went into effect on July 1, 2023. 
@@ -20,6 +28,6 @@ These changes, combined with the ongoing debt servicing, have led to a significa
 ## Inflation: A Silent Economic Saboteur
 One direct fallout of these policy changes is an inflation rate of 22.79​​ percent as of June 2023. Inflation, the rate at which prices for goods and services increase, affects various facets of the economy. It impacts individual spending power and can affect the interest on the national debt. The rate at which prices change can have wide-ranging consequences across the economy. When inflation rises, the value of money erodes, and this can result in wage devaluation, increased living costs, and reduced purchasing power.
 
-Additionally, inflation can lead to increased costs for businesses, resulting in higher prices for consumers, reduced employment and growth, negative foreign exchange effects, and stymied investments. For instance, on July 18, 2023, fuel prices increased to N617 per liter, while the exchange rate hit 806 naira to a dollar, impacting the cost of raw materials and causing supply-chain disruptions.
+Additionally, inflation can lead to increased costs for businesses, resulting in higher prices for consumers, reduced employment and growth, negative foreign exchange effects, and stymied investments. For instance, on July 18, 2023, fuel prices increased to N617 per liter, while the exchange rate hit ₦806 naira to a $1 dollar, impacting the cost of raw materials and causing supply-chain disruptions.
 
 
