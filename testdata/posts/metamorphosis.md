@@ -9,18 +9,23 @@ Over the past few months, Nigeria has been experiencing some significant policy 
   <img src="second/bbc.png"/>
 
 ## Setting the Stage: Economic Challenges
-The backdrop to this momentous policy shift is an economic legacy left by the immediate past President, whose administration left a staggering debt of ₦49.85 trillion ($108.30 billion) to local and foreign creditors. Consequently, 96 percent of government revenue goes towards servicing this debt, raising fears of a more severe cash crunch if subsidy payments were to continue. It is against this backdrop that the fuel subsidy removal was announced, creating a ripple of immediate and palpable effects on the populace.
+The backdrop to this momentous policy shift is an economic legacy left by the immediate past President, whose administration only provided budgetary allocation for petrol subsidy until June 30, 2023, leaving the incoming administration to make the final decision. The adminstration also left a staggering debt of ₦49.85 trillion ($108.30 billion) to local and foreign creditors. Consequently, 96 percent of government revenue goes towards servicing this debt, raising fears of a more severe cash crunch if subsidy payments were to continue. It is against this backdrop that the fuel subsidy removal was announced, creating a ripple of immediate and palpable effects on the populace.
  <img src="second/dmo.png"/>
 
 
 ## Fiscal and Monetary Policy Shifts: Impacts and Ramifications
-In his inauguration speech on May 29, 2023, the president announced the removal of the fuel subsidy policy. The immediate past president only provided budgetary allocation for petrol subsidy until June 30, 2023, leaving the incoming administration to make the final decision. The fuel subsidy removal policy went into effect on July 1, 2023. 
+The removal of the fuel subsidy, which came into effect on July 1, 2023, along with the new operational changes to the foreign exchange market, announced by the Central Bank of Nigeria (CBN) on June 14, 2023 that authorized commercial banks to sell foreign exchange freely at market-determined rates have caused significant changes in the market.
  <img src="second/rv.png"/>
 
-Concurrently, the Central Bank of Nigeria (CBN) announced operational changes to the foreign exchange market on June 14, 2023. This change authorized commercial banks to sell foreign exchange freely at market-determined rates.
  <img src="second/cbn.png"/>
 
-These changes, combined with the ongoing debt servicing, have led to a significant rise in the cost of goods and services. Transportation has become costly, food prices have soared, and even the cost of fuel for generators - a crucial commodity for businesses and households due to unstable electricity supply - has increased significantly.
+For consumers, these changes have led to a hike in the cost of goods and services, including transportation and food, and a notable rise in fuel costs for generators - an essential item due to Nigeria's unstable electricity supply. This situation is further compounded by the nation's high inflation rate of 22.79 percent (as of June 2023), which is negatively impacting consumer confidence and the cost of living. Inflation is the rate at which prices for goods and services increase, affects various facets of the economy. It impacts individual spending power and can affect the interest on the national debt. The rate at which prices change can have wide-ranging consequences across the economy. When inflation rises, the value of money erodes, and this can result in wage devaluation, increased living costs, and reduced purchasing power.
+<img src="second/inf.png"/>
+
+
+For businesses, these challenges translate to increased costs, reduced demand, stymied investments, and disruptions in supply chains. The overall economic environment is further strained by fluctuations in the foreign exchange rate, which stood at ₦806 naira to a $1 dollar, and the increase in fuel prices to ₦617 per liter as of July 18, 2023.
+<img src="second/oil.png"/>
+
 
 ## Inflation: A Silent Economic Saboteur
 One direct fallout of these policy changes is an inflation rate of 22.79​​ percent as of June 2023. Inflation, the rate at which prices for goods and services increase, affects various facets of the economy. It impacts individual spending power and can affect the interest on the national debt. The rate at which prices change can have wide-ranging consequences across the economy. When inflation rises, the value of money erodes, and this can result in wage devaluation, increased living costs, and reduced purchasing power.
