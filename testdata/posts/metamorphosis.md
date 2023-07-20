@@ -15,8 +15,10 @@ The stage was set by the previous administration, which budgeted for the fuel su
 The end of the fuel subsidy on July 1, 2023, alongside the new approach to the foreign exchange market, initiated on June 14, 2023, has triggered significant shifts. For the everyday Nigerian, these changes have hit hard. Prices have risen steeply - transport, food, even the cost of running generators, which are lifelines given the erratic power supply. And all of this is made worse by an inflation rate of 22.79% as of June 2023, a harsh blow to the average Nigerian trying to make ends meet.
 <img src="second/inf.png"/>
 <img src="second/rv.png"/>
- <img src="second/cbn.png"/>
+<img src="second/cbn.png"/>
+
 Meanwhile, businesses are grappling with increased operational costs, decreased demand, disrupted supply chains, and investment uncertainties. The tough economic climate is intensified by fluctuating foreign exchange rates, standing at ₦806 naira to a $1 dollar, and fuel prices soaring to ₦617 per liter as of July 18, 2023.
+
 <img src="second/oil.png"/>
 <img src="second/fx.png"/>
 
