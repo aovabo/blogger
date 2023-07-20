@@ -1,6 +1,6 @@
 ---
 title: Navigating Nigeria's Tectonic Economic Shift
-publish_date: 2022-07-19
+publish_date: 2023-07-19
 abstract: These days in Nigeria, the struggle is real. Fuel prices are shooting skywards, the naira bounces up and down, and the cost of everyday living is growing fast. These factors touch us all - our travels, our meals, the basic goods we rely on, and, fundamentally, our livelihoods. Ovabor Development Labs Limited is facing this head-on, making significant changes to weather the storm. 
 ---
 
