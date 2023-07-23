@@ -6,3 +6,4 @@ abstract: "In this post, we simplify the world of internet cookies and data prot
 ---
 
 <img src="second/cookie.png"/>
+<img src="second/consent.png"/>
