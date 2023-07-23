@@ -2,7 +2,7 @@
 title: Cookies No Be Biscuit - Understanding Cookie Consent on Websites
 publish_date: 2023-07-23 
 readtime:
-abstract: "In this post, we'll break down the concept of internet cookies and data protection into digestible pieces. Think of it this way - just as vendors at your local market remember your face and preferences, websites use cookies to recognize and remember you. But wouldn't you want to know if someone is sharing news about your purchases? Similarly, it's important for websites to tell you what they're doing with your data. Data protection laws enforce this transparency, serving as community guidelines for the virtual world.""
+abstract: "In this post, we'll break down the concept of internet cookies and data protection into digestible pieces. Think of it this way - just as vendors at your local market remember your face and preferences, websites use cookies to recognize and remember you. But wouldn't you want to know if someone is sharing news about your purchases? Similarly, it's important for websites to tell you what they're doing with your data. Data protection laws enforce this transparency, serving as community guidelines for the virtual world."
 ---
 
 <img src="second/cookie.png"/>
