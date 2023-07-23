@@ -44,7 +44,7 @@ It's essential to remember that not all cookies are created equal. Some cookies,
 
 
 ### Cookies: Friend or Foe?
-
+<img src="second/rise.png"/>
 While cookies are essential for a user-friendly web experience, some concerns arise regarding privacy and data protection. They have the potential to record your browsing activity, including your visits and actions on various websites. This tracking information can then be used for targeted advertising or analytics.
 
 ### A Glimpse into Global Data Protection Acts and Your Choices
