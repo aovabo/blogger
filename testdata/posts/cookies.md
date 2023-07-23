@@ -44,10 +44,22 @@ It's essential to remember that not all cookies are created equal. Some cookies,
 
 
 ### Cookies: Friend or Foe?
+
 While cookies are essential for a user-friendly web experience, some concerns arise regarding privacy and data protection. They have the potential to record your browsing activity, including your visits and actions on various websites. This tracking information can then be used for targeted advertising or analytics.
 
 ### A Glimpse into Global Data Protection Acts and Your Choices
-Countries worldwide, including the EU and Nigeria, have enacted data protection legislation. These laws require businesses to be transparent about their data collection practices, and in some cases, to obtain user consent before activating cookies.
+The story of data protection and cookies began in earnest in 2011 with the EU's ePrivacy Directive and strengthened in 2018 with the General Data Protection Regulation (GDPR). Under these laws, websites with EU-based users are required to obtain user consent before activating cookies.
 
-This means you, as an internet user, are more empowered than you think. You have the right to know how your data is being used, to object to its processing, and to withdraw your consent at any time. If you're uncomfortable with cookies tracking your data, it's within your rights to reject them.
+In Nigeria, our Data Protection Act of 2023 doesn't explicitly mention 'cookies', but it establishes that businesses must inform users about data collection. Despite no strict requirement for cookie consent banners, Nigerian companies are still obligated to be transparent about their data collection practices.
 
+So, what does all this mean for you, the everyday internet user? You're more empowered than you might think. You have the right to know how your data is being used, to object to its processing, and to withdraw your consent at any time. If you're uncomfortable with cookies tracking your data, it's within your rights to reject them.
+
+You can exercise control over the cookies websites can keep about you. In the settings of your web browser, you can choose which cookies to allow and which ones to block. By doing so, you can ensure your online experience aligns with your comfort level for privacy.
+
+
+### The Future of Data Privacy
+At [AfriComply](https://privatlas.ovabor.xyz/), we believe in a world where data privacy is not an afterthought but a priority. That's why we're developing a suite of tools designed to help both companies and individuals navigate this complex landscape.
+
+One of these tools will help companies handle data management and stay compliant with the evolving data protection laws. And for the individuals, we're building a [Data Finder Tool](https://rights.africomply.com/) to reveal how many companies hold your data, offering a level of transparency previously unseen.
+
+Are you ready to regain control over your digital footprint? Follow us on[Twitter](https://twitter.com/africomply)
