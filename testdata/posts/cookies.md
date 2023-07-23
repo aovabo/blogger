@@ -13,6 +13,8 @@ You have probably noticed the familiar pop-up on many websites you visit, asking
 ### What are Cookies on Websites?
 Imagine going to a popular market where all the sellers know you. As you walk past each stall, the sellers greet you by name, remember what you bought last time, and suggest items based on your previous purchases. This makes your shopping experience smooth and personalized.
 
+<img src="second/kp2.png"/>
+
 The internet works similarly, but instead of market sellers, we have websites, and instead of their memories, we have cookies.
 
 In the digital world, a 'cookie' is not a delightful dessert but small files of information that a web server generates and sends to the web browser we use. They are small notes websites leave on our device (phone, computer, etc.) to remember things about us. These might be what we've put in our shopping basket, our preferred language, or the fact we've logged in
@@ -28,6 +30,7 @@ For example, let's say you're shopping online for a football jersey. You select 
 It's essential to remember that not all cookies are created equal. Some cookies, often termed 'First-party cookies', are created by the site you visit and help the site function correctly. For example, they enable you to add items to your shopping cart or change your site's layout. However, 'Third-party cookies' are created by other sites, like advertisers, which track your browsing activities to deliver tailored content and ads.
 
 **Digital cookies come in various flavors:**
+<img src="second/kp1.png"/>
 
 - Session Cookies: These are like daily notes. These cookies keep track of your actions within a website during a browser session. Once you exit the browser, session cookies are deleted.
 
@@ -39,7 +42,6 @@ It's essential to remember that not all cookies are created equal. Some cookies,
 
 - Zombie Cookies: These cookies regenerate after being deleted, often used by unscrupulous networks and even cyber attackers.
 
-<img src="second/kp2.png"/>
 
 ### Cookies: Friend or Foe?
 While cookies are essential for a user-friendly web experience, some concerns arise regarding privacy and data protection. They have the potential to record your browsing activity, including your visits and actions on various websites. This tracking information can then be used for targeted advertising or analytics.
@@ -48,6 +50,4 @@ While cookies are essential for a user-friendly web experience, some concerns ar
 Countries worldwide, including the EU and Nigeria, have enacted data protection legislation. These laws require businesses to be transparent about their data collection practices, and in some cases, to obtain user consent before activating cookies.
 
 This means you, as an internet user, are more empowered than you think. You have the right to know how your data is being used, to object to its processing, and to withdraw your consent at any time. If you're uncomfortable with cookies tracking your data, it's within your rights to reject them.
-
-
 
