@@ -20,27 +20,25 @@ In the digital world, a 'cookie' is not a delightful dessert but small files of 
 ### Why are Cookies Used?
 Cookies help inform websites about the user, enabling the websites to personalize the user experience. They allow websites to 'remember' users across different pages or during subsequent visits. 
 
+Just like a market seller remembering your previous purchases to make your shopping easier, cookies help websites remember your actions and preferences. This means you don't have to keep re-entering them whenever you come back to the site or browse from one page to another.
+
 For example, let's say you're shopping online for a football jersey. You select a size, add it to your cart and decide to keep shopping. The website uses cookies to remember what's in your cart, so even if you leave the site and come back later, your jersey is still there waiting for you.
 
+## Different Types of Cookies
+It's essential to remember that not all cookies are created equal. Some cookies, often termed 'First-party cookies', are created by the site you visit and help the site function correctly. For example, they enable you to add items to your shopping cart or change your site's layout. However, 'Third-party cookies' are created by other sites, like advertisers, which track your browsing activities to deliver tailored content and ads.
 
+**Digital cookies come in various flavors:**
 
+- Session Cookies: These are like daily notes. These cookies keep track of your actions within a website during a browser session. Once you exit the browser, session cookies are deleted.
 
-## Diving Deeper: Different Types of Cookies
-Cookies come in various flavors:
+- Persistent Cookies: These are like sticky notes. These cookies are stored on your device between browsing sessions and keep track of your preferences or actions across multiple sites or browsing sessions.
 
-- Session Cookies: These cookies keep track of your actions within a website during a browser session. Once you exit the browser, session cookies are deleted.
-
-- Persistent Cookies: These cookies are stored on your device between browsing sessions and keep track of your preferences or actions across multiple sites or browsing sessions.
-
-- Authentication Cookies: The cookies are generated when you log into an account via your browser, these cookies ensure that sensitive information is delivered to the correct user sessions.
+- Authentication Cookies: These notes confirm it's really you. The cookies are generated when you log into an account via your browser, these cookies ensure that sensitive information is delivered to the correct user sessions.
 
 - Tracking Cookies: Typically used by advertisers, these cookies record user activity for marketing purposes.
 
 - Zombie Cookies: These cookies regenerate after being deleted, often used by unscrupulous networks and even cyber attackers.
 
-Third-party cookies vs. First-party cookies: Cookies can either be 'first-party', set directly by the website you are visiting, or 'third-party', set by a domain other than the one you are visiting. Third-party cookies are typically used for tracking and advertising purposes.
-
-<img src="second/kp1.png"/>
 <img src="second/kp2.png"/>
 
 ### Cookies: Friend or Foe?
