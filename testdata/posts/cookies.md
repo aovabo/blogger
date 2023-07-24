@@ -57,9 +57,12 @@ So, what does all this mean for you, the everyday internet user? You're more emp
 You can exercise control over the cookies websites can keep about you. In the settings of your web browser, you can choose which cookies to allow and which ones to block. By doing so, you can ensure your online experience aligns with your comfort level for privacy.
 
 
-### The Future of Data Privacy
-At [AfriComply](https://privatlas.ovabor.xyz/), we believe in a world where data privacy is not an afterthought but a priority. That's why we're developing a suite of tools designed to help both companies and individuals navigate this complex landscape.
 
-One of these tools will help companies handle data management and stay compliant with the evolving data protection laws. And for the individuals, we're building a [Data Finder Tool](https://rights.africomply.com/) to reveal how many companies hold your data, offering a level of transparency previously unseen.
+
+
+### The Future of Data Privacy
+At [AfriComply](https://africomply.ovabor.xyz/), we believe in a world where data privacy is not an afterthought but a priority. That's why we're developing a suite of tools designed to help both companies and individuals navigate this complex regulatory landscape.
+
+One of these tools will help companies handle data management and stay compliant with the evolving data protection laws. And for the individuals, we're building a [Data Finder Tool](https://rights.africomply.com/) to reveal how many companies hold your data, offering a level of transparency previously unseen to excercise your 9 key data rights under the [Nigeria Data Protection Act 2023](https://ndpb.gov.ng/Files/Nigeria_Data_Protection_Act_2023.pdf).
 
 Are you ready to regain control over your digital footprint? Follow us on[Twitter](https://twitter.com/africomply)
