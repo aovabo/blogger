@@ -60,11 +60,13 @@ You can exercise control over the cookies websites can keep about you. In the se
 
 ***Clearing Cookies On Android*** <img src="second/droid.png"/>
 
-***Clearing Cookies On iPhone & iPad*** <img src="ipad/comp.png"/>
+***Clearing Cookies On iPhone & iPad*** <img src="second/ipad.png"/>
 
 ***Clearing Cookies in Safari on Mac*** <img src="ipad/mac.png"/>
 
 Check out this article to learn how to clear, allow and manage cookies in [Chrome](https://support.google.com/chrome/answer/95647?)
+
+Check out this article to learn how to clear, allow and manage cookies in Safari on [Mac](https://support.apple.com/guide/safari/manage-cookies-sfri11471/mac)
 
 
 ### The Future of Data Privacy
