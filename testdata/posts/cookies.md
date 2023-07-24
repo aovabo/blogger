@@ -55,7 +55,9 @@ In Nigeria, our Data Protection Act of 2023 doesn't explicitly mention 'cookies'
 So, what does all this mean for you, the everyday internet user? You're more empowered than you might think. You have the right to know how your data is being used, to object to its processing, and to withdraw your consent at any time. If you're uncomfortable with cookies tracking your data, it's within your rights to reject them.
 
 You can exercise control over the cookies websites can keep about you. In the settings of your web browser, you can choose which cookies to allow and which ones to block. By doing so, you can ensure your online experience aligns with your comfort level for privacy.
-
+Clearing Cookies On Computer <img src="second/comp.png"/>
+Clearing Cookies On Android <img src="second/droid.png"/>
+Clearing Cookies On iPhone & iPad  <img src="ipad/comp.png"/>
 
 
 
