@@ -62,7 +62,7 @@ You can exercise control over the cookies websites can keep about you. In the se
 
 ***Clearing Cookies On iPhone & iPad*** <img src="second/ipad.png"/>
 
-***Clearing Cookies in Safari on Mac*** <img src="ipad/mac.png"/>
+***Clearing Cookies in Safari on Mac*** <img src="second/mac.png"/>
 
 Check out this article to learn how to clear, allow and manage cookies in [Chrome](https://support.google.com/chrome/answer/95647?)
 
