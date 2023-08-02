@@ -6,7 +6,7 @@ abstract: This is the privacy policy (“Privacy Policy”) that governs how we,
 
 Last update: Aug 02, 2023
 
-1. #### Introduction
+1. ### Introduction
 This Privacy Policy applies to the websites [PrivaCheck](https://africomply.ovabor.xyz) and [AfriComply](https://africomply.com) (hereinafter the “website”) published by the company Ovabor Development Labs Limited (hereinafter “Ovabor Labs” or “we”) and its other services and products for which personal data is being communicated to Ovabor Labs.
 
 Please read this Privacy Policy carefully as it explains how Ovabor Labs uses your personal data and how to exercise your rights. This Privacy Policy supplements the Terms & Conditions or any documents or notices that may refer to this Privacy Policy.
