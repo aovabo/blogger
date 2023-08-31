@@ -20,17 +20,18 @@ So what are you waiting for? Start exploring today!
 ***
 
 ## Fundamentals of Cybersecurity and Computer Science
-- [**Intro to Cybersecurity**](https://www.usna.edu/CyberDept/sy110/) _Click on Class_
+- [**Intro to Cybersecurity**](https://www.usna.edu/Users/cs/wcbrown/courses/si110AY13S/lec/index.html)
 - [**Intro to Computer Science**](https://web.stanford.edu/class/cs106e/) _Click on Lecture Notes_
 - [**Computer Science: An Overview, 13th edition Texbook**](https://app.box.com/s/1cgny5m2ndjo8tcsvxkslj0fh35fv0x0)
 - [**List of Free Python Resources**](https://hakin9.org/list-of-free-python-resources/)
 - [**Python Guide**](https://cs.stanford.edu/people/nick/py/)
 - [**Python for Cybersecurity**](https://python.cyberdefendersprogram.com/)
-- [**Python Basics**](http://web.stanford.edu/class/cs106a/index.html#mainNav)
+- [**Python Basics**](http://web.stanford.edu/class/cs106a/index.html#mainNav) _Click on Lectures_
 - [**Python Tutorials**](https://docs.python.org/3.10/tutorial/)
 - [**Introduction to the Command Line**](https://launchschool.com/books/command_line/read/introduction)
 - [**Linux Basics**](https://practicalunix.org/)
 - [**Intro to Git and GitHub**](https://launchschool.com/books/git/read/introduction)
+- [**Eloquent JavaScript**](https://eloquentjavascript.net/)
 - [**Intro to JavaScript**](https://launchschool.com/books/javascript/read/introduction)
 - [**The Modern JavaScript Tutorial**](https://javascript.info/)
 - [**How to Read Research Papers**](https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf)
