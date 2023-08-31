@@ -32,6 +32,7 @@ So what are you waiting for? Start exploring today!
 - [**Intro to Git and GitHub**](https://launchschool.com/books/git/read/introduction)
 - [**Eloquent JavaScript**](https://eloquentjavascript.net/)
 - [**Intro to JavaScript**](https://launchschool.com/books/javascript/read/introduction)
+- [**Web Attack Cheat Sheet**](https://github.com/riramar/Web-Attack-Cheat-Sheet)
 - [**The Modern JavaScript Tutorial**](https://javascript.info/)
 - [**How to Read Research Papers**](https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf)
 - [**How to Read a Scientific Paper**](https://www.science.org/content/article/how-seriously-read-scientific-paper)
