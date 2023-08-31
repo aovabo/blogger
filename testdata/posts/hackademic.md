@@ -221,6 +221,7 @@ Below are lists of supplementary materials that are also useful:
 - https://www.mandiant.com/resources/apt-groups (Advanced Persistent Groups)
 - https://trailofbits.github.io/ctf/ (CTF Field Guide)
 - https://www.hacker101.com/resources (Hacking Tools & Resources)
+- https://home.adelphi.edu/~ni21347/cybersecgames/OverTheWire/Bandit/index.html (Over The Wire Answers)
 - https://pwn.college/ (Hands-on Hacking Resources)
 - https://academy.hackthebox.com/ (Hands-on Hacking Resources)
 - https://picoctf.org/ (Hands-on Hacking Resources)
