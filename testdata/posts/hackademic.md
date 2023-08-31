@@ -19,11 +19,11 @@ So what are you waiting for? Start exploring today!
 
 ***
 
-## Fundamentals of Cybersecurity and Computer Science
+## Fundamentals of Cybersecurity, Computer Science, and Web Security
+- [**Teaching and Learning Computer Science**](https://textbooks.cs.ksu.edu/tlcs/1-what-is-cs/01-introduction/index.html)
 - [**How to Buid a Cybersecurity Career**](https://danielmiessler.com/p/build-successful-infosec-career/)
 - [**Intro to Cybersecurity**](https://www.usna.edu/Users/cs/wcbrown/courses/si110AY13S/lec/index.html)
 - [**Intro to Computer Science**](https://web.stanford.edu/class/cs106e/) _Click on Lecture Notes_
-- [**List of Free Python Resources**](https://hakin9.org/list-of-free-python-resources/)
 - [**Python Guide**](https://cs.stanford.edu/people/nick/py/)
 - [**Python for Cybersecurity**](https://python.cyberdefendersprogram.com/)
 - [**Python Basics**](http://web.stanford.edu/class/cs106a/index.html#mainNav) _Click on Lectures_
@@ -32,19 +32,22 @@ So what are you waiting for? Start exploring today!
 - [**Linux Basics**](https://practicalunix.org/)
 - [**Introduction to the Command Line**](https://launchschool.com/books/command_line/read/introduction)
 - [**Intro to Git and GitHub**](https://launchschool.com/books/git/read/introduction)
-- [**Eloquent JavaScript**](https://eloquentjavascript.net/)
+- [**Eloquent Intro to JavaScript**](https://eloquentjavascript.net/)
 - [**Intro to JavaScript**](https://launchschool.com/books/javascript/read/introduction)
-- [**Web Attack Cheat Sheet**](https://github.com/riramar/Web-Attack-Cheat-Sheet)
 - [**The Modern JavaScript Tutorial**](https://javascript.info/)
-- [**Learn and Train Offensive Security**](https://offsec.tools/tag/learning)
+- [**Intro to Web Security**](https://portswigger.net/web-security)
+- [**Web Attack Cheat Sheet**](https://github.com/riramar/Web-Attack-Cheat-Sheet)
+- [**Applied Web Security**](https://web.stanford.edu/class/cs253/)
+- [**OWASP Web Top Ten**](https://owasp.org/www-project-top-ten/)
+- [**OWASP API Top 10**](https://owasp.org/www-project-api-security/)
+- [**OWASP Web Security Testing Guide**](https://owasp.org/www-project-web-security-testing-guide/v42/)
+- [**OWASP Cheat Sheet Series**](https://cheatsheetseries.owasp.org/index.html)
 - [**Free: Splunk Certified Cybersecurity Defense Analyst**](https://www.splunk.com/en_us/training/certification-track/splunk-certified-cybersecurity-defense-analyst.html)
-- [**How to Read Research Papers**](https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf)
-- [**How to Read a Scientific Paper**](https://www.science.org/content/article/how-seriously-read-scientific-paper)
-- [**A Framework for Writing Better Documentation**](https://documentation.divio.com/)
+- [**Computer Science: An Overview, 13th edition Texbook**](https://app.box.com/s/1cgny5m2ndjo8tcsvxkslj0fh35fv0x0)
 - [**Advanced Computer Science Resources**](https://teachyourselfcs.com/) 
 - [**Kansas State University Free Computer Science Textbooks**](https://textbooks.cs.ksu.edu/)
-- [**Computer Science: An Overview, 13th edition Texbook**](https://app.box.com/s/1cgny5m2ndjo8tcsvxkslj0fh35fv0x0)
 
+  
 ## Computer Network and Security
 - [**Networking Terminologies**](https://do.co/3A9BHGF)
 - [**Intro to Computer Networks**](https://cs144.github.io/)
@@ -53,7 +56,7 @@ So what are you waiting for? Start exploring today!
 - [**Theoretical Computer & Network Security**](https://cs356.stanford.edu/)
 - [**Computer and Network Security**](https://engineering.purdue.edu/kak/compsec/)
 
-## Web Application Development; Web Security; Secure Coding
+## Web Application Development; Secure Coding
 - [**What Distinguishes Great Software Engineers?**](https://faculty.washington.edu/ajko/papers/Li2019WhatDistinguishesEngineers.pdf)
 - [**Visual Overview of Useful Skills for Web Developers**](https://andreasbm.github.io/web-skills)
 - [**Free Tools for Developers**](https://free-for.dev/#/)
@@ -66,18 +69,15 @@ So what are you waiting for? Start exploring today!
 - [**Advanced Web Application Development**](https://fullstackopen.com/en/)
 - [**Intro to Backend Engineering**](https://backend-course.cornellappdev.com/)
 - [**Frontend Developer Handbook**](https://frontendmasters.com/guides/front-end-handbook/2019/)
-- [**Intro to Web Security**](https://portswigger.net/web-security)
-- [**Applied Web Security**](https://web.stanford.edu/class/cs253/)
-- [**OWASP Web Top Ten**](https://owasp.org/www-project-top-ten/)
-- [**OWASP API Top 10**](https://owasp.org/www-project-api-security/)
 - [**OWASP Code Review Guide**](https://owasp.org/www-project-code-review-guide/assets/OWASP_Code_Review_Guide_v2.pdf)
-- [**OWASP Web Security Testing Guide**](https://owasp.org/www-project-web-security-testing-guide/v42/)
-- [**OWASP Cheat Sheet Series**](https://cheatsheetseries.owasp.org/index.html)
 - [**Security Guide for Developers**](https://github.com/FallibleInc/security-guide-for-developers)
 - [**Google's Code Review Developer Guide**](https://google.github.io/eng-practices/review/)
 - [**SonarSource Code Analyzers Rules Explorer**](https://rules.sonarsource.com/)
 - [**LinkedIn School of Site Reliability Engineering**](https://github.com/linkedin/school-of-sre)
 - [**A Distributed Systems Reading List**](https://dancres.github.io/Pages/)
+- [**How to Read Research Papers**](https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf)
+- [**How to Read a Scientific Paper**](https://www.science.org/content/article/how-seriously-read-scientific-paper)
+- [**A Framework for Writing Better Documentation**](https://documentation.divio.com/)
 
 ## Ethics, Privacy Engineering and The Law of Computer Technology
 - [**ACM Code of Ethics and Professional Conduct**](https://www.acm.org/binaries/content/assets/about/acm-code-of-ethics-and-professional-conduct.pdf)
@@ -213,6 +213,7 @@ So what are you waiting for? Start exploring today!
 
 ## Hands-on Hacking Resources
 Below are lists of supplementary materials that are also useful:
+- [**Learn and Train Offensive Security**](https://offsec.tools/tag/learning)
 - http://opengarages.org/handbook/ (Car Hackers Handbook by OpenGarages)
 - https://accesscyber.co/blog/raspberry-pi-cybersecurity-infosec-projects
 - https://github.com/florinpop17/app-ideas (Project Ideas for Developers)
@@ -272,6 +273,7 @@ Below are lists of supplementary materials that are also useful:
 - [**AI EXpert Roadmap**](https://i.am.ai/roadmap/)
 - [**Technical Debt as a Lack of Understanding**](https://daverupert.com/2020/11/technical-debt-as-a-lack-of-understanding/)
 - [**Introduction to Embedded Linux Security - Part 1**](https://embeddedbits.org/introduction-embedded-linux-security-part-1/)
+- https://guides.codepath.org/websecurity
 - https://github.com/shellphish/how2heap
 - https://thatcomputerscientist.com/big-o-notation-explained-as-easily-as-possible
 - https://github.com/jwasham/coding-interview-university
