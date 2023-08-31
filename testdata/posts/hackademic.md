@@ -20,6 +20,7 @@ So what are you waiting for? Start exploring today!
 ***
 
 ## Fundamentals of Cybersecurity and Computer Science
+- [**How to Buid a Cybersecurity Career**](https://danielmiessler.com/p/build-successful-infosec-career/)
 - [**Intro to Cybersecurity**](https://www.usna.edu/Users/cs/wcbrown/courses/si110AY13S/lec/index.html)
 - [**Intro to Computer Science**](https://web.stanford.edu/class/cs106e/) _Click on Lecture Notes_
 - [**List of Free Python Resources**](https://hakin9.org/list-of-free-python-resources/)
