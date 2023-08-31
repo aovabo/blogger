@@ -28,8 +28,9 @@ So what are you waiting for? Start exploring today!
 - [**Python for Cybersecurity**](https://python.cyberdefendersprogram.com/)
 - [**Python Basics**](http://web.stanford.edu/class/cs106a/index.html#mainNav) _Click on Lectures_
 - [**Python Tutorials**](https://docs.python.org/3.10/tutorial/)
-- [**Introduction to the Command Line**](https://launchschool.com/books/command_line/read/introduction)
+- [**Learn the ways of Linux-fu, for free**](https://linuxjourney.com/)
 - [**Linux Basics**](https://practicalunix.org/)
+- [**Introduction to the Command Line**](https://launchschool.com/books/command_line/read/introduction)
 - [**Intro to Git and GitHub**](https://launchschool.com/books/git/read/introduction)
 - [**Eloquent JavaScript**](https://eloquentjavascript.net/)
 - [**Intro to JavaScript**](https://launchschool.com/books/javascript/read/introduction)
