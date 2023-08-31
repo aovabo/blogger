@@ -37,6 +37,7 @@ So what are you waiting for? Start exploring today!
 - [**Web Attack Cheat Sheet**](https://github.com/riramar/Web-Attack-Cheat-Sheet)
 - [**The Modern JavaScript Tutorial**](https://javascript.info/)
 - [**Learn and Train Offensive Security**](https://offsec.tools/tag/learning)
+- [Free: Splunk Certified Cybersecurity Defense Analyst](https://www.splunk.com/en_us/training/certification-track/splunk-certified-cybersecurity-defense-analyst.html)
 - [**How to Read Research Papers**](https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf)
 - [**How to Read a Scientific Paper**](https://www.science.org/content/article/how-seriously-read-scientific-paper)
 - [**A Framework for Writing Better Documentation**](https://documentation.divio.com/)
@@ -213,6 +214,7 @@ So what are you waiting for? Start exploring today!
 ## Hands-on Hacking Resources
 Below are lists of supplementary materials that are also useful:
 - http://opengarages.org/handbook/ (Car Hackers Handbook by OpenGarages)
+- https://accesscyber.co/blog/raspberry-pi-cybersecurity-infosec-projects
 - https://github.com/florinpop17/app-ideas (Project Ideas for Developers)
 - https://austinhenley.com/blog/morechallengingprojects.html (Advanced Project Ideas for Developers) 
 - https://github.com/The-Art-of-Hacking/h4cker (Art of Hacking)
@@ -274,6 +276,7 @@ Below are lists of supplementary materials that are also useful:
 - https://thatcomputerscientist.com/big-o-notation-explained-as-easily-as-possible
 - https://github.com/jwasham/coding-interview-university
 - https://mtlynch.io/code-review-love/
+- https://zer1t0.gitlab.io/challenges/
 - https://arxiv.org/abs/1205.5935
 - https://wiki.mozilla.org/Fingerprinting
 - https://phiresky.github.io/blog/2021/hosting-sqlite-databases-on-github-pages/
