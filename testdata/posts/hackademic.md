@@ -37,7 +37,7 @@ So what are you waiting for? Start exploring today!
 - [**Web Attack Cheat Sheet**](https://github.com/riramar/Web-Attack-Cheat-Sheet)
 - [**The Modern JavaScript Tutorial**](https://javascript.info/)
 - [**Learn and Train Offensive Security**](https://offsec.tools/tag/learning)
-- [Free: Splunk Certified Cybersecurity Defense Analyst](https://www.splunk.com/en_us/training/certification-track/splunk-certified-cybersecurity-defense-analyst.html)
+- [**Free: Splunk Certified Cybersecurity Defense Analyst**](https://www.splunk.com/en_us/training/certification-track/splunk-certified-cybersecurity-defense-analyst.html)
 - [**How to Read Research Papers**](https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf)
 - [**How to Read a Scientific Paper**](https://www.science.org/content/article/how-seriously-read-scientific-paper)
 - [**A Framework for Writing Better Documentation**](https://documentation.divio.com/)
