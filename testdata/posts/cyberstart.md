@@ -2,7 +2,7 @@
 title: CyberStart 55 - Your First Step into Cyber Security and IT 
 author: XELA ROBAVO
 publish_date: 2023-09-10
-snippet: Dive into the world of Cybersecurity and IT! Discover an easy and fun way to start with CyberStart 55.
+snippet: 
 abstract: The online world is vast, and it needs heroes like you to keep it safe. Are you new to tech? Curious about cybersecurity? I got you! Welcome to CyberStart 55, a training made especially for beginners to kickstart their journey.
 summary:
 description: Here’s the thing: CyberStart 55 is like your friendly tech guide. If terms like "networking" or "data privacy" sound confusing, don’t worry! We’ll break it all down for you, step by step. And here’s the cherry on top: finish the course and you get to try out what you’ve learned with a real-world internship!
