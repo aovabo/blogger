@@ -6,10 +6,6 @@ snippet:
 abstract: 
 summary:
 description: 
-tags: ["Cybersecurity", "Training", "IT", "Beginners", "CyberStart 55"]
-allow_iframes: false
-disable_html_sanitization: false
-render_math: true
 ---
 
 # Tags
