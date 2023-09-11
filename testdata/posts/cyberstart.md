@@ -1,6 +1,6 @@
 ---
 title: Announcing the CyberStart 55 Virtual Security & Privacy Training Program
-author: XELA ROBAVO
+readtime: 2 minutes
 publish_date: 2023-09-10
 abstract: CyberStart 55 isn’t just another training—it’s an experience. Delve deep into the foundational aspects of computing, networking, and cybersecurity, and come out with a tangible skill set. Our curriculum, spread over several Mondays and Fridays, includes rigorous hands-on lab sessions to ensure practical knowledge. Whether you're eyeing a position as a Security Analyst or an IT Support Technician, this course will equip you with the foundational knowledge to get started. 
 ---
