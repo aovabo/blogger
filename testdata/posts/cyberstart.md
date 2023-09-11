@@ -1,5 +1,5 @@
 ---
-title: CyberStart 55: Your First Step into Cyber Security and IT 
+title: CyberStart 55 - Your First Step into Cyber Security and IT 
 author: XELA ROBAVO
 publish_date: 2023-09-10
 snippet: Dive into the world of Cybersecurity and IT! Discover an easy and fun way to start with CyberStart 55.
