@@ -26,7 +26,7 @@ https://securityboulevard.com/2020/03/what-is-security-debt-and-how-do-i-get-out
 https://devdocs.io/
 https://github.com/bregman-arie/sre-checklist
 https://www.philvenables.com/
-
+https://www.remoterocketship.com/advice/guide/devops-engineer/devsecops-interview-questions-and-answers
 
 
 https://thesaasadmin.co/
