@@ -1,5 +1,4 @@
 import blog from "../blog.tsx";
-import { unocss_opts } from "./unocss.ts";
 
 blog({
   author: "Xela Robavo",
