@@ -3,7 +3,7 @@ import blog from "../blog.tsx"
 
 blog({
   author: "Xela Robavo",
-  title: "Xela Robavo's Innovation Orchard",
+  title: "Robavo's Innovation Orchard",
   description: "Chronicles of My Experimental and Passion Projects.",
   avatar: "alex-ovabor-black.png",
   avatarClass: "rounded-full",
