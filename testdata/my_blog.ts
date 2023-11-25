@@ -19,7 +19,7 @@ blog({
 //  middlewares: [
     //ga("UA-XXXXXXXX-X"),
  //   redirects({
-      "/foo": "/my_post",
+ //     "/foo": "/my_post",
       // you can skip leading slashes too
 //      "bar": "my_post2",
 //    }),
