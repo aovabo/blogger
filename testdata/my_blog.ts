@@ -4,7 +4,7 @@ blog({
   author: "Xela Robavo",
   title: "Ovabo's Innovation Orchard",
   description: "Chronicles of my experimental and passion project.",
-  avatar: "alex-h.png",
+  avatar: "alex-ovabor-black.png",
   avatarClass: "rounded-full",
   links: [
     { title: "blog@ovabor.xyz", url: "mailto:blog@ovabor.xyz" },
