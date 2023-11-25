@@ -26,7 +26,7 @@ Data Protection Compliance Organizations (DPCOs) are allies in this process. The
 
 The CAR should address several key areas:
 
-Awareness: How the organization educates its team about data protection.
+- Awareness: How the organization educates its team about data protection.
 
 - Privacy Policy: The measures in place to protect personal data.
 
