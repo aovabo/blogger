@@ -22,8 +22,8 @@ blog({
       "/foo": "/my_post",
       // you can skip leading slashes too
 //      "bar": "my_post2",
-    }),
-  ],
+//    }),
+//  ],
   // unocss: unocss_opts, // check https://github.com/unocss/unocss
   favicon: "alexfavicon.png",
 });
