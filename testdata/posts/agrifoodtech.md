@@ -1,6 +1,22 @@
 ---
-title: Revolutionizing Nigerian Agriculture with Robavo AgriFood Technologies
+
+title: Revolutionizing Nigerian Agriculture with AgriFood Technologies
 publish_date: 2023-11-27
 abstract: In response to the Federal Ministry of Agriculture and Food Security's "Application of UAV, IoT, and AI to Agriculture in Nigeria" initiative, this post discusses how Robavo AgriFood Technologies can be a game-changer in revolutionizing Nigerian agriculture. It delves into current challenges such as market fragmentation, rising costs, and climate change, critically assesses governmental strategies, and proposes a collaborative approach for sustainable agricultural innovation and investments on the Nigerian agricultural sector.
 
 ---
+
+1. **Africa and Nigeria Farming Market**
+
+The farming market in Africa, and particularly in Nigeria, is notably fragmented. Agriculture is a critical sector in Africa, employing about 70% of the continent's population in various roles. In Nigeria, the agricultural sector plays a substantial role in the economy, employing over 35% of the workforce and contributing more than 20% of the GDP.This is particularly noteworthy when compared to Ethiopia, where agriculture makes up an even larger portion, accounting for 40% of their GDP. A significant aspect of this sector is the dominance of small-scale women farmers; they constitute 70% of the agricultural workforce and produce 60% of the food consumed in Nigeria. Highlighting the role of smallholder women farmers in this context is crucial; they represent 70% of the agricultural workforce in Nigeria and are responsible for producing 60% of the food consumed in the country. My mother, a smallholder farmer herself, is part of this significant demographic. [1].
+
+2. **Personal Experience and Market Changes**
+
+Farming in Nigeria is not only becoming more expensive but is also fraught with numerous challenges, as observed through my mother's experiences. Economic costs are escalating, with input prices for farming essentials rising faster than what the crops can fetch in the market. The burden is compounded by the rising costs of transportation, which affect everything from acquiring supplies to getting produce to the market. Environmental challenges, such as frequent floods in Benue and droughts in Bauchi, further strain the farmers' ability to maintain consistent productivity. Security concerns, stemming from attacks by [herders](https://guardian.ng/features/agro-care/ondo-farmers-under-siege-seek-end-to-herders-carnage/) and [Boko Haram/ISWAP terrorist groups](https://www.voaafrica.com/a/at-least-11-farmers-killed-by-jihadists-in-northeast-nigeria/7344209.html), add another layer of difficulty to their daily lives. These issues are compounded by problems like low productivity and limited technology adoption, exacerbated by the increasingly unpredictable weather patterns due to climate change.
+
+Another significant challenge faced by smallholder farmers in Nigeria is land access and security. Under the [Nigeria Land Use Act](https://placng.org/lawsofnigeria/view2.php?sn=228), the government retains ownership of all lands, which can lead to situations where, despite legal land ownership, farmers can be displaced for government projects like road construction. My mother's story is a case in point; her first farm at Olu Foam, a source of pride, was taken away by the Ondo State government in 2008 under this Act, illustrating the precarious nature of land tenure for farmers in Nigeria.
+
+Most Nigerian farmers, including my mother, are smallholders. She runs a small farm and has always been a part of the local agricultural community. One vivid aspect of this community is the 'Oja Oko,' a term in Yoruba language, predominantly spoken in Southwestern Nigeria, meaning 'bush market.' Oja Oko is akin to a farmer's market, where everyone brings their produce and food to sell. These markets, characteristic of rural Nigeria, are convened on specific market days. My mother used to find affordable produce at these markets, but recently, she mentioned that prices have risen sharply, now mirroring those in urban centers. This increase is primarily due to Nigeria's fluctuating naira and high inflation rates. Such economic pressures, combined with land tenure challenges, paint a vivid picture of the multifaceted struggles facing Nigerian farmers today.
+
+3. **Reaction to the Agriculture Demonstration Project and Call for Applications**
+
