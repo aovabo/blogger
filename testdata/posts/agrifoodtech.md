@@ -12,7 +12,7 @@ abstract: In response to the Federal Ministry of Agriculture and Food Security's
 
 1. **Understanding the African and Nigerian Farming Market**
 
-The farming market in Africa, and particularly in Nigeria, is notably fragmented. Agriculture is a critical sector in Africa, employing about 70% of the continent's population in various roles. In Nigeria, the agricultural sector plays a substantial role in the economy, employing over 35% of the workforce and contributing more than 20% of the GDP.This is particularly noteworthy when compared to Ethiopia, where agriculture makes up an even larger portion, accounting for 40% of their GDP. A significant aspect of this sector is the dominance of smallholder women farmers; they constitute 70% of the agricultural workforce and produce 60% of the food consumed in Nigeria. My mother, a smallholder farmer herself, is part of this significant demographic. [1].
+The farming market in Africa, and particularly in Nigeria, is notably fragmented. Agriculture is a critical sector in Africa, employing about 70% of the continent's population in various roles. In Nigeria, the agricultural sector plays a substantial role in the economy, employing over 35% of the workforce and contributing more than 20% of the GDP. This is particularly noteworthy when compared to Ethiopia, where agriculture makes up an even larger portion, accounting for 40% of their GDP. A significant aspect of this sector is the dominance of smallholder women farmers; they constitute 70% of the agricultural workforce and produce 60% of the food consumed in Nigeria. My mother, a smallholder farmer herself, is part of this significant demographic. [1].
 
 2. **Personal Experience and Market Changes**
 
