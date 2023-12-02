@@ -54,7 +54,7 @@ By addressing these areas through strategic collaborations and policy reforms, N
 
 ## 5. **My Vision for AgriFood Technologies for the Agriculture Demonstration Project**
 
-If I were to apply to the program, my proposal would be under the banner of 'Robavo AgriFood Technologies', incubated by Ovabor Development Labs Limited. However, currently, my ability to apply is constrained as I am not in Nigeria and am deeply engaged with scaling other ventures like AfriComply, eQuipfy, and SpaceSec, with the aim of nurturing them into billion-dollar companies. After achieving this milestone, my focus will shift to my interests in agri food tech, defense tech, and spacetech.
+If I were to apply to the program, my proposal would be under the banner of 'Robavo AgriFood Technologies', incubated by Ovabor Development Labs Limited. However, currently, my ability to apply is constrained as I am deeply engaged with scaling other ventures like AfriComply, eQuipfy, and SpaceSec, with the aim of nurturing them into billion-dollar companies. After achieving this milestone, my focus will shift to my interests in agri food tech, defense tech, and spacetech.
 
 Here’s my envisioned approach for the Agriculture Demonstration Project:
 
