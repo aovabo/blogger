@@ -9,7 +9,7 @@ blog({
   avatarClass: "rounded-full",
   links: [
     { title: "Email", url: "mailto:aovabo@alexovabor.com" },
-    { title: "GitHub", url: "https://github.com/aovabo" },
+    { title: "GitHub", url: "https://github.com/ovabo" },
     { title: "Twitter", url: "https://twitter.com/aovabo" },
   ],
   lang: "en",
