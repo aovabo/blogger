@@ -1,5 +1,5 @@
 ---
-title: 2000 Miles Later - From Bugs in Tesla Model 3 to Roadster Dreams
+title: 2000 Miles Later 
 publish_date: 2024-01-26
 abstract: "A candid recount of my first month with a Tesla Model 3, detailing the highs and lows from unexpected quirks to Autopilot adventures, all while keeping an eye on the ultimate prize: the Tesla Roadster and cracking cybersecurity puzzles."
 ---
